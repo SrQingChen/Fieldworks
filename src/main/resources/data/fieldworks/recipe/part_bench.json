@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ici",
+    "ctc",
+    "ici"
+  ],
+  "key": {
+    "i": "minecraft:iron_ingot",
+    "c": "minecraft:copper_ingot",
+    "t": "minecraft:crafting_table"
+  },
+  "result": {
+    "id": "fieldworks:part_bench",
+    "count": 1
+  }
+}

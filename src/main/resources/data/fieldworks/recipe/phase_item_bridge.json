@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ese",
+    "scs",
+    "ese"
+  ],
+  "key": {
+    "e": "minecraft:ender_pearl",
+    "s": "fieldworks:steel_ingot",
+    "c": "fieldworks:logic_circuit"
+  },
+  "result": {
+    "id": "fieldworks:phase_item_bridge",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " w ",
+    "wew",
+    " w "
+  ],
+  "key": {
+    "w": "fieldworks:field_wire",
+    "e": "fieldworks:logic_circuit"
+  },
+  "result": {
+    "id": "fieldworks:field_coupler",
+    "count": 1
+  }
+}

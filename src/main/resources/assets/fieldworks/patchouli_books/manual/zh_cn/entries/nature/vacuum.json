@@ -1,0 +1,13 @@
+{
+  "name": "book.fieldworks.e.vacuum",
+  "category": "fieldworks:nature",
+  "icon": "fieldworks:sky_platform",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.vacuum.p1"
+    }
+  ],
+  "sortnum": 2,
+  "advancement": "fieldworks:siting_master"
+}

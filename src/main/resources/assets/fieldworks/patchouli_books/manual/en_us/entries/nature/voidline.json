@@ -1,0 +1,13 @@
+{
+  "name": "book.fieldworks.e.voidline",
+  "category": "fieldworks:nature",
+  "icon": "fieldworks:resonant_drill",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.voidline.p1"
+    }
+  ],
+  "sortnum": 3,
+  "advancement": "fieldworks:five_airs"
+}

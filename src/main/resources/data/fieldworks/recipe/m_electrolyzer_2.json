@@ -1,0 +1,28 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 900,
+  "time": 380,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:steel_casing",
+      "count": 4
+    },
+    {
+      "ingredient": "fieldworks:copper_coil",
+      "count": 4
+    },
+    {
+      "ingredient": "fieldworks:logic_circuit",
+      "count": 4
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:electrolyzer_2",
+      "count": 1
+    }
+  ]
+}

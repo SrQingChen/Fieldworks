@@ -1,0 +1,24 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 800,
+  "time": 360,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:seal_flange",
+      "count": 4
+    },
+    {
+      "ingredient": "minecraft:glass",
+      "count": 8
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:negative_pressure_catcher",
+      "count": 1
+    }
+  ]
+}

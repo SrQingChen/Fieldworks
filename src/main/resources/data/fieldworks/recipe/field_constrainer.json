@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ini",
+    "nbn",
+    "ini"
+  ],
+  "key": {
+    "i": "fieldworks:invar_ingot",
+    "n": "fieldworks:monel_ingot",
+    "b": "fieldworks:steel_casing"
+  },
+  "result": {
+    "id": "fieldworks:field_constrainer",
+    "count": 1
+  }
+}

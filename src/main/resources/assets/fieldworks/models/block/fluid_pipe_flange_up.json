@@ -1,0 +1,77 @@
+{
+ "parent": "minecraft:block/block",
+ "textures": {
+  "particle": "fieldworks:block/fluid_pipe_flange",
+  "0": "fieldworks:block/fluid_pipe_flange"
+ },
+ "elements": [
+  {
+   "from": [
+    4,
+    14,
+    4
+   ],
+   "to": [
+    12,
+    16,
+    12
+   ],
+   "faces": {
+    "north": {
+     "texture": "0",
+     "uv": [
+      4,
+      4,
+      12,
+      12
+     ]
+    },
+    "south": {
+     "texture": "0",
+     "uv": [
+      4,
+      4,
+      12,
+      12
+     ]
+    },
+    "east": {
+     "texture": "0",
+     "uv": [
+      4,
+      4,
+      12,
+      12
+     ]
+    },
+    "west": {
+     "texture": "0",
+     "uv": [
+      4,
+      4,
+      12,
+      12
+     ]
+    },
+    "up": {
+     "texture": "0",
+     "uv": [
+      4,
+      4,
+      12,
+      12
+     ]
+    },
+    "down": {
+     "texture": "0",
+     "uv": [
+      4,
+      4,
+      12,
+      12
+     ]
+    }
+   }
+  }
+ ]
+}

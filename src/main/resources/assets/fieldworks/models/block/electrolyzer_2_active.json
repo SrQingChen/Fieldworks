@@ -1,0 +1,12 @@
+{
+ "parent": "minecraft:block/cube",
+ "textures": {
+  "particle": "fieldworks:block/electrolyzer_2_front",
+  "north": "fieldworks:block/electrolyzer_2_front_active",
+  "south": "fieldworks:block/electrolyzer_2_side",
+  "east": "fieldworks:block/electrolyzer_2_side",
+  "west": "fieldworks:block/electrolyzer_2_side",
+  "up": "fieldworks:block/electrolyzer_2_top",
+  "down": "fieldworks:block/machine_bottom"
+ }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sss",
+    "s s",
+    "sss"
+  ],
+  "key": {
+    "s": "fieldworks:steel_shell"
+  },
+  "result": {
+    "id": "fieldworks:reinforced_truss",
+    "count": 1
+  }
+}

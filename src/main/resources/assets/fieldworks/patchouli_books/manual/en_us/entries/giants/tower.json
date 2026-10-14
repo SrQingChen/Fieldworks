@@ -1,0 +1,159 @@
+{
+  "name": "book.fieldworks.e.tower",
+  "category": "fieldworks:giants",
+  "icon": "fieldworks:resonance_tower",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.tower.p1"
+    },
+    {
+      "type": "fieldworks:multiblock",
+      "name": "book.fieldworks.e.tower.mb",
+      "text": "book.fieldworks.e.tower.mb_t",
+      "multiblock": {
+        "pattern": [
+          [
+            "         ",
+            "         ",
+            "         ",
+            "         ",
+            "    A    ",
+            "         ",
+            "         ",
+            "         ",
+            "         "
+          ],
+          [
+            "         ",
+            "         ",
+            "         ",
+            "   AAA   ",
+            "   A A   ",
+            "   AAA   ",
+            "         ",
+            "         ",
+            "         "
+          ],
+          [
+            "         ",
+            " GGGGGGG ",
+            " G     G ",
+            " G     G ",
+            " G     G ",
+            " G     G ",
+            " G     G ",
+            " GGGGGGG ",
+            "         "
+          ],
+          [
+            "         ",
+            " SSSSSSS ",
+            " S     S ",
+            " S     S ",
+            " S     S ",
+            " S     S ",
+            " S     S ",
+            " SSSSSSS ",
+            "         "
+          ],
+          [
+            "         ",
+            "         ",
+            "  TTGTT  ",
+            "  T   T  ",
+            "  G   G  ",
+            "  T   T  ",
+            "  TTGTT  ",
+            "         ",
+            "         "
+          ],
+          [
+            "         ",
+            "         ",
+            "  TTGTT  ",
+            "  T   T  ",
+            "  G   G  ",
+            "  T   T  ",
+            "  TTGTT  ",
+            "         ",
+            "         "
+          ],
+          [
+            "         ",
+            "         ",
+            "  TTGTT  ",
+            "  T   T  ",
+            "  G   G  ",
+            "  T   T  ",
+            "  TTGTT  ",
+            "         ",
+            "         "
+          ],
+          [
+            "         ",
+            "         ",
+            "  TTGTT  ",
+            "  T   T  ",
+            "  G   G  ",
+            "  T   T  ",
+            "  TTGTT  ",
+            "         ",
+            "         "
+          ],
+          [
+            "         ",
+            " GGGGGGG ",
+            " G     G ",
+            " G     G ",
+            " G     G ",
+            " G     G ",
+            " G     G ",
+            " GGGGGGG ",
+            "         "
+          ],
+          [
+            "         ",
+            " SSSGSSS ",
+            " S     S ",
+            " S     S ",
+            " G  0  G ",
+            " S     S ",
+            " S     S ",
+            " SSSGSSS ",
+            "         "
+          ],
+          [
+            "         ",
+            " TTTTTTT ",
+            " T     T ",
+            " T     T ",
+            " T     T ",
+            " T     T ",
+            " T     T ",
+            " TTTTTTT ",
+            "         "
+          ]
+        ],
+        "mapping": {
+          "T": "fieldworks:reinforced_truss",
+          "S": "fieldworks:steel_shell",
+          "G": "fieldworks:observation_glass",
+          "A": "fieldworks:amethyst_plate",
+          "K": "fieldworks:steel_casing",
+          "0": "fieldworks:resonance_tower"
+        },
+        "symmetrical": false
+      },
+      "multiblock_variant": "resonance_tower",
+      "enable_visualize": true,
+      "custom_game": null
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.tower.p2"
+    }
+  ],
+  "sortnum": 1,
+  "advancement": "fieldworks:giant"
+}

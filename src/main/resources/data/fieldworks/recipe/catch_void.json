@@ -1,0 +1,25 @@
+{
+  "type": "fieldworks:vacuum_catching",
+  "machines": [
+    "fieldworks:negative_pressure_catcher"
+  ],
+  "energy": 600,
+  "time": 320,
+  "outputs": [
+    {
+      "id": "fieldworks:void_condensate",
+      "count": 1
+    }
+  ],
+  "field_profile": {
+    "fields": [
+      {
+        "field": "fieldworks:vacuum",
+        "tolerance": 2000,
+        "penalty": 0.7,
+        "weight": 1.0,
+        "ideal": 30
+      }
+    ]
+  }
+}

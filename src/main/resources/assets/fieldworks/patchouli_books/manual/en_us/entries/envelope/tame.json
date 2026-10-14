@@ -1,0 +1,13 @@
+{
+  "name": "book.fieldworks.e.tame",
+  "category": "fieldworks:envelope",
+  "icon": "fieldworks:tame_generator",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.tame.p1"
+    }
+  ],
+  "sortnum": 3,
+  "advancement": "fieldworks:envelope"
+}

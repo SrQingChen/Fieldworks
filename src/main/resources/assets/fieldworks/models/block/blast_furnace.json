@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "fieldworks:block/blast_furnace_front",
+    "north": "fieldworks:block/blast_furnace_front",
+    "south": "fieldworks:block/blast_furnace_side",
+    "east": "fieldworks:block/blast_furnace_side",
+    "west": "fieldworks:block/blast_furnace_side",
+    "up": "fieldworks:block/blast_furnace_top",
+    "down": "fieldworks:block/machine_bottom"
+  }
+}

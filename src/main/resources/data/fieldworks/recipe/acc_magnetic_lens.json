@@ -1,0 +1,28 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 700,
+  "time": 320,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:amethyst_lens",
+      "count": 1
+    },
+    {
+      "ingredient": "fieldworks:pure_iron_ingot",
+      "count": 4
+    },
+    {
+      "ingredient": "minecraft:copper_ingot",
+      "count": 4
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:magnetic_lens",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "fieldworks:electrolysis",
+  "machines": [
+    "fieldworks:plasma_electrolysis_matrix"
+  ],
+  "energy": 2000,
+  "time": 400,
+  "outputs": [
+    {
+      "id": "fieldworks:void_condensate",
+      "count": 1
+    }
+  ],
+  "field_profile": {
+    "fields": [
+      {
+        "field": "fieldworks:em_field",
+        "tolerance": 40,
+        "penalty": 0.5,
+        "weight": 1.0,
+        "min": 40
+      }
+    ]
+  },
+  "fluid_input": {
+    "fluid": "fieldworks:tuned_void_gas",
+    "amount": 100
+  }
+}

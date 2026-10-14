@@ -1,0 +1,24 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 460,
+  "time": 220,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:aluminum_ingot",
+      "count": 4
+    },
+    {
+      "ingredient": "fieldworks:precision_bearing",
+      "count": 1
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:turbine_blade",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "fieldworks:electrolysis",
+  "machines": [
+    "fieldworks:electrolyzer_2"
+  ],
+  "energy": 500,
+  "time": 200,
+  "fluid_input": {
+    "fluid": "minecraft:water",
+    "amount": 200
+  },
+  "fluid_outputs": [
+    {
+      "id": "fieldworks:hydrogen",
+      "amount": 120
+    },
+    {
+      "id": "fieldworks:oxygen",
+      "amount": 80
+    }
+  ]
+}

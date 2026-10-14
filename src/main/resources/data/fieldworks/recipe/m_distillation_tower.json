@@ -1,0 +1,28 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 800,
+  "time": 400,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:distillation_tray",
+      "count": 4
+    },
+    {
+      "ingredient": "fieldworks:steel_casing",
+      "count": 2
+    },
+    {
+      "ingredient": "fieldworks:nozzle_assembly",
+      "count": 4
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:distillation_tower",
+      "count": 1
+    }
+  ]
+}

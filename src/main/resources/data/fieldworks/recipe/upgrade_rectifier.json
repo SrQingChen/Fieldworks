@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "fieldworks:distillation_tray",
+    "fieldworks:logic_circuit"
+  ],
+  "result": {
+    "id": "fieldworks:upgrade_rectifier",
+    "count": 1
+  }
+}

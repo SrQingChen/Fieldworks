@@ -1,0 +1,43 @@
+{
+  "type": "fieldworks:magnetic_separating",
+  "machines": [
+    "fieldworks:magnetic_separator"
+  ],
+  "energy": 600,
+  "time": 300,
+  "inputs": [
+    "fieldworks:raw_monazite"
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:thorium_pellet",
+      "count": 1
+    },
+    {
+      "id": "fieldworks:inert_concentrate",
+      "count": 1
+    }
+  ],
+  "chances": [
+    1.0,
+    0.6
+  ],
+  "field_profile": {
+    "fields": [
+      {
+        "field": "fieldworks:magnetic",
+        "tolerance": 0.5,
+        "penalty": 0.8,
+        "weight": 1.0,
+        "ideal": 0.4
+      },
+      {
+        "field": "fieldworks:gravity",
+        "tolerance": 0.3,
+        "penalty": 0.5,
+        "weight": 0.5,
+        "ideal": 1.15
+      }
+    ]
+  }
+}

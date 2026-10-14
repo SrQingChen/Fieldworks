@@ -1,0 +1,12 @@
+{
+ "parent": "minecraft:block/cube",
+ "textures": {
+  "particle": "fieldworks:block/corrosion_trap_front",
+  "north": "fieldworks:block/corrosion_trap_front_active",
+  "south": "fieldworks:block/corrosion_trap_side",
+  "east": "fieldworks:block/corrosion_trap_side",
+  "west": "fieldworks:block/corrosion_trap_side",
+  "up": "fieldworks:block/corrosion_trap_top",
+  "down": "fieldworks:block/machine_bottom"
+ }
+}

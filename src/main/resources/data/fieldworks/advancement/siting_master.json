@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "id": "fieldworks:probe_staff"
+    },
+    "title": {
+      "translate": "adv.fieldworks.siting_master"
+    },
+    "description": {
+      "translate": "adv.fieldworks.siting_master.desc"
+    },
+    "frame": "task"
+  },
+  "parent": "fieldworks:five_airs",
+  "criteria": {
+    "granted": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

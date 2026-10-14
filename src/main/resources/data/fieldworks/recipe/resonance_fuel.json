@@ -1,0 +1,19 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 600,
+  "time": 300,
+  "inputs": [
+    "fieldworks:resonant_crystal_raw",
+    "#fieldworks:compressed_air",
+    "fieldworks:sulfur"
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:resonance_fuel",
+      "count": 2
+    }
+  ]
+}

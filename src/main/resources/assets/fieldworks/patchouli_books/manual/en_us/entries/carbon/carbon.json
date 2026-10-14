@@ -1,0 +1,16 @@
+{
+  "name": "book.fieldworks.e.carbon",
+  "category": "fieldworks:carbon",
+  "icon": "fieldworks:carbon_gauge",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.carbon.p1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.carbon.p2"
+    }
+  ],
+  "sortnum": 0
+}

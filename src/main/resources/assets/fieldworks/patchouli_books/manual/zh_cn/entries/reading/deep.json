@@ -1,0 +1,13 @@
+{
+  "name": "book.fieldworks.e.deep",
+  "category": "fieldworks:reading",
+  "icon": "fieldworks:condenser",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.deep.p1"
+    }
+  ],
+  "sortnum": 3,
+  "advancement": "fieldworks:deep_breath"
+}

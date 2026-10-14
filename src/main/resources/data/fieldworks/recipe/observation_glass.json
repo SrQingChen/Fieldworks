@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ggg",
+    "gsg",
+    "ggg"
+  ],
+  "key": {
+    "g": "minecraft:glass",
+    "s": "fieldworks:steel_ingot"
+  },
+  "result": {
+    "id": "fieldworks:observation_glass",
+    "count": 8
+  }
+}

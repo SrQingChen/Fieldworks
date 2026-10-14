@@ -1,0 +1,30 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 700,
+  "time": 400,
+  "inputs": [
+    "minecraft:leather",
+    "minecraft:leather",
+    "minecraft:ender_pearl"
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:phantom_membrane",
+      "count": 1
+    }
+  ],
+  "field_profile": {
+    "fields": [
+      {
+        "field": "fieldworks:vacuum",
+        "tolerance": 90000,
+        "penalty": 0.7,
+        "weight": 0.8,
+        "ideal": 1000
+      }
+    ]
+  }
+}

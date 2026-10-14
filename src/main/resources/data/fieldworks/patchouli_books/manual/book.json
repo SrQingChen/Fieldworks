@@ -1,0 +1,12 @@
+{
+  "name": "book.fieldworks.title",
+  "landing_text": "book.fieldworks.landing",
+  "i18n": true,
+  "version": 1,
+  "subtitle": "book.fieldworks.subtitle",
+  "book_texture": "patchouli:textures/gui/book_purple.png",
+  "model": "patchouli:book_purple",
+  "pause_game": true,
+  "show_progress": false,
+  "use_resource_pack": true
+}

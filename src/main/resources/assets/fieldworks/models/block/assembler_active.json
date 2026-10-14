@@ -1,0 +1,12 @@
+{
+ "parent": "minecraft:block/cube",
+ "textures": {
+  "particle": "fieldworks:block/assembler_front",
+  "north": "fieldworks:block/assembler_front_active",
+  "south": "fieldworks:block/assembler_side",
+  "east": "fieldworks:block/assembler_side",
+  "west": "fieldworks:block/assembler_side",
+  "up": "fieldworks:block/assembler_top",
+  "down": "fieldworks:block/machine_bottom"
+ }
+}

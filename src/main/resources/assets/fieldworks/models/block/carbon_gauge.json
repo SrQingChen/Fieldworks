@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "fieldworks:block/carbon_gauge_front",
+    "north": "fieldworks:block/carbon_gauge_front",
+    "south": "fieldworks:block/carbon_gauge_side",
+    "east": "fieldworks:block/carbon_gauge_side",
+    "west": "fieldworks:block/carbon_gauge_side",
+    "up": "fieldworks:block/carbon_gauge_top",
+    "down": "fieldworks:block/machine_bottom"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "fieldworks:block/harmonic_cathedral_front",
+    "north": "fieldworks:block/harmonic_cathedral_front",
+    "south": "fieldworks:block/harmonic_cathedral_side",
+    "east": "fieldworks:block/harmonic_cathedral_side",
+    "west": "fieldworks:block/harmonic_cathedral_side",
+    "up": "fieldworks:block/harmonic_cathedral_top",
+    "down": "fieldworks:block/machine_bottom"
+  }
+}

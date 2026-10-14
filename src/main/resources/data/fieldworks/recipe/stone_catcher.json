@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cgc",
+    "gbg",
+    "cgc"
+  ],
+  "key": {
+    "c": "minecraft:cobblestone",
+    "g": "minecraft:glass",
+    "b": "minecraft:barrel"
+  },
+  "result": {
+    "id": "fieldworks:stone_catcher",
+    "count": 1
+  }
+}

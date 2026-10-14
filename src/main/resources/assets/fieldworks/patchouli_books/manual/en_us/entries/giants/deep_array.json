@@ -1,0 +1,133 @@
+{
+  "name": "book.fieldworks.e.deep_array",
+  "category": "fieldworks:giants",
+  "icon": "fieldworks:deep_electrolysis_array",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.deep_array.p1"
+    },
+    {
+      "type": "fieldworks:multiblock",
+      "name": "book.fieldworks.e.deep_array.mb",
+      "text": "book.fieldworks.e.deep_array.mb_t",
+      "multiblock": {
+        "pattern": [
+          [
+            "         ",
+            "         ",
+            "         ",
+            "   AAA   ",
+            "   AGA   ",
+            "   AAA   ",
+            "         ",
+            "         ",
+            "         "
+          ],
+          [
+            "SSSSGSSSS",
+            "S       S",
+            "S       S",
+            "S       S",
+            "G       G",
+            "S       S",
+            "S       S",
+            "S       S",
+            "SSSSGSSSS"
+          ],
+          [
+            "TTTTTTTTT",
+            "T       T",
+            "T       T",
+            "T  GGG  T",
+            "T  G G  T",
+            "T  GGG  T",
+            "T       T",
+            "T       T",
+            "TTTTTTTTT"
+          ],
+          [
+            "T       T",
+            "         ",
+            "         ",
+            "   GGG   ",
+            "   G G   ",
+            "   GGG   ",
+            "         ",
+            "         ",
+            "T       T"
+          ],
+          [
+            "T       T",
+            "         ",
+            "         ",
+            "   GGG   ",
+            "   G G   ",
+            "   GGG   ",
+            "         ",
+            "         ",
+            "T       T"
+          ],
+          [
+            "TTTTTTTTT",
+            "T       T",
+            "T       T",
+            "T  GGG  T",
+            "T  G G  T",
+            "T  GGG  T",
+            "T       T",
+            "T       T",
+            "TTTTTTTTT"
+          ],
+          [
+            "T       T",
+            "         ",
+            "         ",
+            "   GGG   ",
+            "   G G   ",
+            "   GGG   ",
+            "         ",
+            "         ",
+            "T       T"
+          ],
+          [
+            "T       T",
+            "         ",
+            "         ",
+            "   GGG   ",
+            "   G G   ",
+            "   GGG   ",
+            "         ",
+            "         ",
+            "T       T"
+          ],
+          [
+            "TSSSSSSST",
+            "S       S",
+            "S       S",
+            "S       S",
+            "S   0   S",
+            "S       S",
+            "S       S",
+            "S       S",
+            "TSSSSSSST"
+          ]
+        ],
+        "mapping": {
+          "T": "fieldworks:reinforced_truss",
+          "S": "fieldworks:steel_shell",
+          "G": "fieldworks:observation_glass",
+          "A": "fieldworks:amethyst_plate",
+          "K": "fieldworks:steel_casing",
+          "0": "fieldworks:deep_electrolysis_array"
+        },
+        "symmetrical": false
+      },
+      "multiblock_variant": "deep_electrolysis_array",
+      "enable_visualize": true,
+      "custom_game": null
+    }
+  ],
+  "sortnum": 4,
+  "advancement": "fieldworks:giant"
+}

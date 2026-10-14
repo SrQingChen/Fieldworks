@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    "ifi",
+    "ccc"
+  ],
+  "key": {
+    "i": "minecraft:iron_ingot",
+    "f": "minecraft:furnace",
+    "c": "minecraft:cobblestone"
+  },
+  "result": {
+    "id": "fieldworks:steam_generator",
+    "count": 1
+  }
+}

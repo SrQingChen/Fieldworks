@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ppp",
+    "plp",
+    "ppp"
+  ],
+  "key": {
+    "p": "minecraft:prismarine_shard",
+    "l": "fieldworks:logic_circuit"
+  },
+  "result": {
+    "id": "fieldworks:tidal_calendar",
+    "count": 1
+  }
+}

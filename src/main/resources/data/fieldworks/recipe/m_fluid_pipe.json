@@ -1,0 +1,14 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "GCG"
+ ],
+ "key": {
+  "G": "minecraft:glass",
+  "C": "fieldworks:steel_ingot"
+ },
+ "result": {
+  "id": "fieldworks:fluid_pipe",
+  "count": 8
+ }
+}

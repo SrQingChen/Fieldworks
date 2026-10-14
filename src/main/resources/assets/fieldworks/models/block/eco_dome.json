@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "fieldworks:block/eco_dome_front",
+    "north": "fieldworks:block/eco_dome_front",
+    "south": "fieldworks:block/eco_dome_side",
+    "east": "fieldworks:block/eco_dome_side",
+    "west": "fieldworks:block/eco_dome_side",
+    "up": "fieldworks:block/eco_dome_top",
+    "down": "fieldworks:block/machine_bottom"
+  }
+}

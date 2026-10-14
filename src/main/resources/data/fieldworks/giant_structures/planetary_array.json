@@ -1,0 +1,579 @@
+{
+ "size": [
+  11,
+  5,
+  11
+ ],
+ "origin": "anchor_min_corner",
+ "controller": [
+  5,
+  1,
+  5
+ ],
+ "blocks": [
+  {
+   "x": 0,
+   "y": 0,
+   "z": 0,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 0,
+   "y": 0,
+   "z": 1,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 0,
+   "y": 0,
+   "z": 2,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 0,
+   "y": 0,
+   "z": 3,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 0,
+   "y": 0,
+   "z": 4,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 0,
+   "y": 0,
+   "z": 5,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 0,
+   "y": 0,
+   "z": 6,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 0,
+   "y": 0,
+   "z": 7,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 0,
+   "y": 0,
+   "z": 8,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 0,
+   "y": 0,
+   "z": 9,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 0,
+   "y": 0,
+   "z": 10,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 0,
+   "y": 1,
+   "z": 2,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 0,
+   "y": 2,
+   "z": 2,
+   "block": "fieldworks:amethyst_plate"
+  },
+  {
+   "x": 1,
+   "y": 0,
+   "z": 0,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 1,
+   "y": 0,
+   "z": 5,
+   "block": "fieldworks:steel_casing"
+  },
+  {
+   "x": 1,
+   "y": 0,
+   "z": 7,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 1,
+   "y": 0,
+   "z": 10,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 1,
+   "y": 1,
+   "z": 7,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 1,
+   "y": 2,
+   "z": 7,
+   "block": "fieldworks:amethyst_plate"
+  },
+  {
+   "x": 2,
+   "y": 0,
+   "z": 0,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 2,
+   "y": 0,
+   "z": 5,
+   "block": "fieldworks:steel_casing"
+  },
+  {
+   "x": 2,
+   "y": 0,
+   "z": 10,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 3,
+   "y": 0,
+   "z": 0,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 3,
+   "y": 0,
+   "z": 5,
+   "block": "fieldworks:steel_casing"
+  },
+  {
+   "x": 3,
+   "y": 0,
+   "z": 10,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 4,
+   "y": 0,
+   "z": 0,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 4,
+   "y": 0,
+   "z": 4,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 4,
+   "y": 0,
+   "z": 5,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 4,
+   "y": 0,
+   "z": 6,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 4,
+   "y": 0,
+   "z": 10,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 4,
+   "y": 1,
+   "z": 4,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 4,
+   "y": 1,
+   "z": 5,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 4,
+   "y": 1,
+   "z": 6,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 4,
+   "y": 2,
+   "z": 4,
+   "block": "fieldworks:amethyst_plate"
+  },
+  {
+   "x": 4,
+   "y": 2,
+   "z": 5,
+   "block": "fieldworks:amethyst_plate"
+  },
+  {
+   "x": 4,
+   "y": 2,
+   "z": 6,
+   "block": "fieldworks:amethyst_plate"
+  },
+  {
+   "x": 5,
+   "y": 0,
+   "z": 0,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 5,
+   "y": 0,
+   "z": 1,
+   "block": "fieldworks:steel_casing"
+  },
+  {
+   "x": 5,
+   "y": 0,
+   "z": 2,
+   "block": "fieldworks:steel_casing"
+  },
+  {
+   "x": 5,
+   "y": 0,
+   "z": 3,
+   "block": "fieldworks:steel_casing"
+  },
+  {
+   "x": 5,
+   "y": 0,
+   "z": 4,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 5,
+   "y": 0,
+   "z": 5,
+   "block": "fieldworks:steel_casing"
+  },
+  {
+   "x": 5,
+   "y": 0,
+   "z": 6,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 5,
+   "y": 0,
+   "z": 7,
+   "block": "fieldworks:steel_casing"
+  },
+  {
+   "x": 5,
+   "y": 0,
+   "z": 8,
+   "block": "fieldworks:steel_casing"
+  },
+  {
+   "x": 5,
+   "y": 0,
+   "z": 9,
+   "block": "fieldworks:steel_casing"
+  },
+  {
+   "x": 5,
+   "y": 0,
+   "z": 10,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 5,
+   "y": 1,
+   "z": 0,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 5,
+   "y": 1,
+   "z": 4,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 5,
+   "y": 1,
+   "z": 5,
+   "block": "fieldworks:planetary_array"
+  },
+  {
+   "x": 5,
+   "y": 1,
+   "z": 6,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 5,
+   "y": 1,
+   "z": 10,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 5,
+   "y": 2,
+   "z": 0,
+   "block": "fieldworks:amethyst_plate"
+  },
+  {
+   "x": 5,
+   "y": 2,
+   "z": 4,
+   "block": "fieldworks:amethyst_plate"
+  },
+  {
+   "x": 5,
+   "y": 2,
+   "z": 6,
+   "block": "fieldworks:amethyst_plate"
+  },
+  {
+   "x": 5,
+   "y": 2,
+   "z": 10,
+   "block": "fieldworks:amethyst_plate"
+  },
+  {
+   "x": 5,
+   "y": 3,
+   "z": 5,
+   "block": "fieldworks:amethyst_plate"
+  },
+  {
+   "x": 5,
+   "y": 4,
+   "z": 5,
+   "block": "fieldworks:observation_glass"
+  },
+  {
+   "x": 6,
+   "y": 0,
+   "z": 0,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 6,
+   "y": 0,
+   "z": 4,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 6,
+   "y": 0,
+   "z": 5,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 6,
+   "y": 0,
+   "z": 6,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 6,
+   "y": 0,
+   "z": 10,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 6,
+   "y": 1,
+   "z": 4,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 6,
+   "y": 1,
+   "z": 5,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 6,
+   "y": 1,
+   "z": 6,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 6,
+   "y": 2,
+   "z": 4,
+   "block": "fieldworks:amethyst_plate"
+  },
+  {
+   "x": 6,
+   "y": 2,
+   "z": 5,
+   "block": "fieldworks:amethyst_plate"
+  },
+  {
+   "x": 6,
+   "y": 2,
+   "z": 6,
+   "block": "fieldworks:amethyst_plate"
+  },
+  {
+   "x": 7,
+   "y": 0,
+   "z": 0,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 7,
+   "y": 0,
+   "z": 5,
+   "block": "fieldworks:steel_casing"
+  },
+  {
+   "x": 7,
+   "y": 0,
+   "z": 10,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 8,
+   "y": 0,
+   "z": 0,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 8,
+   "y": 0,
+   "z": 5,
+   "block": "fieldworks:steel_casing"
+  },
+  {
+   "x": 8,
+   "y": 0,
+   "z": 10,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 9,
+   "y": 0,
+   "z": 0,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 9,
+   "y": 0,
+   "z": 2,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 9,
+   "y": 0,
+   "z": 5,
+   "block": "fieldworks:steel_casing"
+  },
+  {
+   "x": 9,
+   "y": 0,
+   "z": 10,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 9,
+   "y": 1,
+   "z": 2,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 9,
+   "y": 2,
+   "z": 2,
+   "block": "fieldworks:amethyst_plate"
+  },
+  {
+   "x": 10,
+   "y": 0,
+   "z": 0,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 10,
+   "y": 0,
+   "z": 1,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 10,
+   "y": 0,
+   "z": 2,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 10,
+   "y": 0,
+   "z": 3,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 10,
+   "y": 0,
+   "z": 4,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 10,
+   "y": 0,
+   "z": 5,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 10,
+   "y": 0,
+   "z": 6,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 10,
+   "y": 0,
+   "z": 7,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 10,
+   "y": 0,
+   "z": 8,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 10,
+   "y": 0,
+   "z": 9,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 10,
+   "y": 0,
+   "z": 10,
+   "block": "fieldworks:steel_shell"
+  },
+  {
+   "x": 10,
+   "y": 1,
+   "z": 7,
+   "block": "fieldworks:reinforced_truss"
+  },
+  {
+   "x": 10,
+   "y": 2,
+   "z": 7,
+   "block": "fieldworks:amethyst_plate"
+  }
+ ]
+}

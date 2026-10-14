@@ -1,0 +1,31 @@
+{
+  "type": "fieldworks:deep_drilling",
+  "machines": [
+    "fieldworks:deep_drill"
+  ],
+  "energy": 800,
+  "time": 400,
+  "inputs": [
+    "minecraft:deepslate"
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:raw_iron",
+      "count": 1
+    }
+  ],
+  "chances": [
+    0.7
+  ],
+  "field_profile": {
+    "fields": [
+      {
+        "field": "fieldworks:temperature",
+        "tolerance": 60,
+        "penalty": 0.4,
+        "weight": 1.0,
+        "ideal": 30
+      }
+    ]
+  }
+}

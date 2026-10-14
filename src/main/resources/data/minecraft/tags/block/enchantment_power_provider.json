@@ -1,0 +1,9 @@
+{
+  "values": [
+    {
+      "id": "fieldworks:amethyst_plate",
+      "required": false
+    },
+    "minecraft:bookshelf"
+  ]
+}

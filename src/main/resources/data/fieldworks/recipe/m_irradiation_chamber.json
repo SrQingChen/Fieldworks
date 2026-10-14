@@ -1,0 +1,24 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 900,
+  "time": 400,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:thorium_pellet",
+      "count": 4
+    },
+    {
+      "ingredient": "fieldworks:steel_casing",
+      "count": 4
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:irradiation_chamber",
+      "count": 1
+    }
+  ]
+}

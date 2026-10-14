@@ -1,0 +1,24 @@
+{
+  "type": "fieldworks:part_crafting",
+  "machines": [
+    "fieldworks:part_bench"
+  ],
+  "energy": 240,
+  "time": 160,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:steel_ingot",
+      "count": 4
+    },
+    {
+      "ingredient": "minecraft:iron_ingot",
+      "count": 4
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:steel_gear",
+      "count": 1
+    }
+  ]
+}

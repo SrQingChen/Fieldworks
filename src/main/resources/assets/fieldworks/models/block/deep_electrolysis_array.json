@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "fieldworks:block/deep_electrolysis_array_front",
+    "north": "fieldworks:block/deep_electrolysis_array_front",
+    "south": "fieldworks:block/deep_electrolysis_array_side",
+    "east": "fieldworks:block/deep_electrolysis_array_side",
+    "west": "fieldworks:block/deep_electrolysis_array_side",
+    "up": "fieldworks:block/deep_electrolysis_array_top",
+    "down": "fieldworks:block/machine_bottom"
+  }
+}

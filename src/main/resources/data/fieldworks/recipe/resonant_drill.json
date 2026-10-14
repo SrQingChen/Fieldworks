@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "dnd",
+    "ncn",
+    "dnd"
+  ],
+  "key": {
+    "d": "minecraft:diamond",
+    "n": "minecraft:netherite_ingot",
+    "c": "fieldworks:giant_core"
+  },
+  "result": {
+    "id": "fieldworks:resonant_drill",
+    "count": 1
+  }
+}

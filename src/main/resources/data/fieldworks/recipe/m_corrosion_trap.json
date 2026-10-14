@@ -1,0 +1,28 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 1000,
+  "time": 400,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:monel_ingot",
+      "count": 4
+    },
+    {
+      "ingredient": "fieldworks:steel_casing",
+      "count": 4
+    },
+    {
+      "ingredient": "fieldworks:seal_flange",
+      "count": 2
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:corrosion_trap",
+      "count": 1
+    }
+  ]
+}

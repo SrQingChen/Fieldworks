@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "id": "fieldworks:superconductor_ring"
+    },
+    "title": {
+      "translate": "adv.fieldworks.superconduct"
+    },
+    "description": {
+      "translate": "adv.fieldworks.superconduct.desc"
+    },
+    "frame": "task"
+  },
+  "parent": "fieldworks:giant",
+  "criteria": {
+    "has": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "fieldworks:superconductor_ring"
+          }
+        ]
+      }
+    }
+  }
+}

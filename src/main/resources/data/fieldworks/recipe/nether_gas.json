@@ -1,0 +1,14 @@
+{
+  "type": "fieldworks:corrosion_trapping",
+  "machines": [
+    "fieldworks:corrosion_trap"
+  ],
+  "energy": 500,
+  "time": 260,
+  "fluid_outputs": [
+    {
+      "id": "fieldworks:nether_gas",
+      "amount": 120
+    }
+  ]
+}

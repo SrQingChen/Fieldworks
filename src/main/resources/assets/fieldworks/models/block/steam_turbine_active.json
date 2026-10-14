@@ -1,0 +1,12 @@
+{
+ "parent": "minecraft:block/cube",
+ "textures": {
+  "particle": "fieldworks:block/steam_turbine_front",
+  "north": "fieldworks:block/steam_turbine_front_active",
+  "south": "fieldworks:block/steam_turbine_side",
+  "east": "fieldworks:block/steam_turbine_side",
+  "west": "fieldworks:block/steam_turbine_side",
+  "up": "fieldworks:block/steam_turbine_top",
+  "down": "fieldworks:block/machine_bottom"
+ }
+}

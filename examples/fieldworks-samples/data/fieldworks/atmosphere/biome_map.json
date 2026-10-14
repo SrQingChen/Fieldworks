@@ -1,0 +1,8 @@
+{
+  "_comment": "数据包样例：强制指定群系→大气映射(整合包作者的最终话语权，§4.5/§19.3)。",
+  "biomes": {
+    "minecraft:cherry_grove": "fieldworks:oxygen_rich",
+    "minecraft:pale_garden": "fieldworks:spore_air",
+    "terralith:alpha_islands": "fieldworks:tuned_void"
+  }
+}

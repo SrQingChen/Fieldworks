@@ -1,0 +1,24 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 700,
+  "time": 340,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:copper_coil",
+      "count": 4
+    },
+    {
+      "ingredient": "fieldworks:seal_flange",
+      "count": 4
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:heat_exchanger",
+      "count": 1
+    }
+  ]
+}

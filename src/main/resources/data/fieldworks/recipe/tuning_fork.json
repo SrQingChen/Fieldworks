@@ -1,0 +1,19 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 900,
+  "time": 400,
+  "inputs": [
+    "fieldworks:tuned_void_essence",
+    "minecraft:amethyst_shard",
+    "minecraft:gold_ingot"
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:tuning_fork",
+      "count": 1
+    }
+  ]
+}

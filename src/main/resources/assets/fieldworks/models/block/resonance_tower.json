@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "fieldworks:block/resonance_tower_front",
+    "north": "fieldworks:block/resonance_tower_front",
+    "south": "fieldworks:block/resonance_tower_side",
+    "east": "fieldworks:block/resonance_tower_side",
+    "west": "fieldworks:block/resonance_tower_side",
+    "up": "fieldworks:block/resonance_tower_top",
+    "down": "fieldworks:block/machine_bottom"
+  }
+}

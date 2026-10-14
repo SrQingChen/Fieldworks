@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "isi",
+    "sbs",
+    "isi"
+  ],
+  "key": {
+    "s": "fieldworks:seal_flange",
+    "i": "fieldworks:invar_ingot",
+    "b": "fieldworks:steel_casing"
+  },
+  "result": {
+    "id": "fieldworks:field_stabilizer",
+    "count": 1
+  }
+}

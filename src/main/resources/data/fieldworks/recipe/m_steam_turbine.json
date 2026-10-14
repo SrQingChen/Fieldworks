@@ -1,0 +1,28 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 800,
+  "time": 400,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:turbine_blade",
+      "count": 4
+    },
+    {
+      "ingredient": "fieldworks:precision_bearing",
+      "count": 2
+    },
+    {
+      "ingredient": "fieldworks:steel_casing",
+      "count": 2
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:steam_turbine",
+      "count": 1
+    }
+  ]
+}

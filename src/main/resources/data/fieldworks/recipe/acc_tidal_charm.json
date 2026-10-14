@@ -1,0 +1,28 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 950,
+  "time": 400,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:tidal_resonator",
+      "count": 1
+    },
+    {
+      "ingredient": "minecraft:prismarine_shard",
+      "count": 8
+    },
+    {
+      "ingredient": "fieldworks:invar_ingot",
+      "count": 4
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:tidal_charm",
+      "count": 1
+    }
+  ]
+}

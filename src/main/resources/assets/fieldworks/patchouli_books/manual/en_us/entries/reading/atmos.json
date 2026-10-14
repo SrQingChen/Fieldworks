@@ -1,0 +1,20 @@
+{
+  "name": "book.fieldworks.e.atmos",
+  "category": "fieldworks:reading",
+  "icon": "fieldworks:compressed_air",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.atmos.p1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.atmos.p2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.atmos.p3"
+    }
+  ],
+  "sortnum": 1
+}

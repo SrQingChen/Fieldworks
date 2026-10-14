@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rcr",
+    "cbc",
+    "rcr"
+  ],
+  "key": {
+    "r": "fieldworks:resonant_crystal_refined",
+    "c": "fieldworks:steel_casing",
+    "b": "minecraft:beacon"
+  },
+  "result": {
+    "id": "fieldworks:giant_core",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "fieldworks:block/planetary_array_front",
+    "north": "fieldworks:block/planetary_array_front",
+    "south": "fieldworks:block/planetary_array_side",
+    "east": "fieldworks:block/planetary_array_side",
+    "west": "fieldworks:block/planetary_array_side",
+    "up": "fieldworks:block/planetary_array_top",
+    "down": "fieldworks:block/machine_bottom"
+  }
+}

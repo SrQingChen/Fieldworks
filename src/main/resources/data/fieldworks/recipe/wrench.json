@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "i i",
+    " c ",
+    "i i"
+  ],
+  "key": {
+    "i": "minecraft:iron_ingot",
+    "c": "minecraft:copper_ingot"
+  },
+  "result": {
+    "id": "fieldworks:wrench",
+    "count": 1
+  }
+}

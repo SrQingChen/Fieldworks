@@ -1,0 +1,13 @@
+{
+  "name": "book.fieldworks.e.distill",
+  "category": "fieldworks:air",
+  "icon": "fieldworks:distillation_tower",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.distill.p1"
+    }
+  ],
+  "sortnum": 1,
+  "advancement": "fieldworks:steelsmith"
+}

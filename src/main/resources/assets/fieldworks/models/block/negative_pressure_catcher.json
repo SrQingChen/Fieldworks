@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "fieldworks:block/negative_pressure_catcher_front",
+    "north": "fieldworks:block/negative_pressure_catcher_front",
+    "south": "fieldworks:block/negative_pressure_catcher_side",
+    "east": "fieldworks:block/negative_pressure_catcher_side",
+    "west": "fieldworks:block/negative_pressure_catcher_side",
+    "up": "fieldworks:block/negative_pressure_catcher_top",
+    "down": "fieldworks:block/machine_bottom"
+  }
+}

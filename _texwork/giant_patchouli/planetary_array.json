@@ -1,0 +1,86 @@
+{
+ "type": "fieldworks:multiblock",
+ "name": "book.fieldworks.e.array.mb",
+ "text": "book.fieldworks.e.array.mb_t",
+ "multiblock": {
+  "pattern": [
+   [
+    "           ",
+    "           ",
+    "           ",
+    "           ",
+    "           ",
+    "     G     ",
+    "           ",
+    "           ",
+    "           ",
+    "           ",
+    "           "
+   ],
+   [
+    "           ",
+    "           ",
+    "           ",
+    "           ",
+    "           ",
+    "     A     ",
+    "           ",
+    "           ",
+    "           ",
+    "           ",
+    "           "
+   ],
+   [
+    "     A     ",
+    "           ",
+    "           ",
+    " A        A",
+    "    AAA    ",
+    "    A A    ",
+    "    AAA    ",
+    "           ",
+    "A        A ",
+    "           ",
+    "     A     "
+   ],
+   [
+    "     T     ",
+    "           ",
+    "           ",
+    " T        T",
+    "    TTT    ",
+    "    T0T    ",
+    "    TTT    ",
+    "           ",
+    "T        T ",
+    "           ",
+    "     T     "
+   ],
+   [
+    "SSSSSTSSSSS",
+    "S    K    S",
+    "S    K    S",
+    "ST   K    T",
+    "S   TTT   S",
+    "SKKKTKTKKKS",
+    "S   TTT   S",
+    "S    K    S",
+    "T    K   TS",
+    "S    K    S",
+    "SSSSSTSSSSS"
+   ]
+  ],
+  "mapping": {
+   "T": "fieldworks:reinforced_truss",
+   "S": "fieldworks:steel_shell",
+   "G": "fieldworks:observation_glass",
+   "A": "fieldworks:amethyst_plate",
+   "K": "fieldworks:steel_casing",
+   "0": "fieldworks:planetary_array"
+  },
+  "symmetrical": false
+ },
+ "multiblock_variant": "planetary_array",
+ "enable_visualize": true,
+ "custom_game": null
+}

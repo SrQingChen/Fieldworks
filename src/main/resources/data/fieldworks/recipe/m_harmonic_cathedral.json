@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "TST",
+  "SGS",
+  "TST"
+ ],
+ "key": {
+  "T": "fieldworks:reinforced_truss",
+  "S": "fieldworks:steel_shell",
+  "G": "fieldworks:giant_core"
+ },
+ "result": {
+  "id": "fieldworks:harmonic_cathedral",
+  "count": 1
+ }
+}

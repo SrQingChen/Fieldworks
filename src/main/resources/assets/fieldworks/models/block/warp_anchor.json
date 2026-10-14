@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "fieldworks:block/warp_anchor_front",
+    "north": "fieldworks:block/warp_anchor_front",
+    "south": "fieldworks:block/warp_anchor_side",
+    "east": "fieldworks:block/warp_anchor_side",
+    "west": "fieldworks:block/warp_anchor_side",
+    "up": "fieldworks:block/warp_anchor_top",
+    "down": "fieldworks:block/machine_bottom"
+  }
+}

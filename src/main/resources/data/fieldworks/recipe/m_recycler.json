@@ -1,0 +1,28 @@
+{
+  "type": "fieldworks:part_crafting",
+  "machines": [
+    "fieldworks:part_bench"
+  ],
+  "energy": 380,
+  "time": 220,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:piston_frame",
+      "count": 2
+    },
+    {
+      "ingredient": "minecraft:iron_ingot",
+      "count": 12
+    },
+    {
+      "ingredient": "fieldworks:logic_circuit",
+      "count": 1
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:recycler",
+      "count": 1
+    }
+  ]
+}

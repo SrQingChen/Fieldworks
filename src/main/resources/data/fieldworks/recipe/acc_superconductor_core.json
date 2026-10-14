@@ -1,0 +1,28 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 3000,
+  "time": 620,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:superconductor_ring",
+      "count": 1
+    },
+    {
+      "ingredient": "fieldworks:superconductor_alloy",
+      "count": 4
+    },
+    {
+      "ingredient": "fieldworks:resonant_crystal_ultra",
+      "count": 8
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:superconductor_core",
+      "count": 1
+    }
+  ]
+}

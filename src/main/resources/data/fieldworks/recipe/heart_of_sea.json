@@ -1,0 +1,30 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 900,
+  "time": 400,
+  "inputs": [
+    "minecraft:prismarine_shard",
+    "minecraft:diamond",
+    "fieldworks:corrosion_salt"
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:heart_of_the_sea",
+      "count": 1
+    }
+  ],
+  "field_profile": {
+    "fields": [
+      {
+        "field": "fieldworks:humidity",
+        "tolerance": 40,
+        "penalty": 0.6,
+        "weight": 0.6,
+        "ideal": 75
+      }
+    ]
+  }
+}

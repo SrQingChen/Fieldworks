@@ -1,0 +1,20 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 1000,
+  "time": 500,
+  "inputs": [
+    "minecraft:enchanted_book",
+    "fieldworks:resonant_crystal_refined",
+    "fieldworks:resonant_crystal_refined",
+    "minecraft:gold_ingot"
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:rhythmic_book",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+ "variants": {
+  "facing=north,active=false": {
+   "model": "fieldworks:block/gas_tank_1",
+   "y": 0
+  },
+  "facing=north,active=true": {
+   "model": "fieldworks:block/gas_tank_1_active",
+   "y": 0
+  },
+  "facing=east,active=false": {
+   "model": "fieldworks:block/gas_tank_1",
+   "y": 90
+  },
+  "facing=east,active=true": {
+   "model": "fieldworks:block/gas_tank_1_active",
+   "y": 90
+  },
+  "facing=south,active=false": {
+   "model": "fieldworks:block/gas_tank_1",
+   "y": 180
+  },
+  "facing=south,active=true": {
+   "model": "fieldworks:block/gas_tank_1_active",
+   "y": 180
+  },
+  "facing=west,active=false": {
+   "model": "fieldworks:block/gas_tank_1",
+   "y": 270
+  },
+  "facing=west,active=true": {
+   "model": "fieldworks:block/gas_tank_1_active",
+   "y": 270
+  }
+ }
+}

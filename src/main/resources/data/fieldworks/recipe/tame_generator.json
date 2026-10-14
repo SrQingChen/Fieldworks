@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "glg",
+    "lbl",
+    "ggg"
+  ],
+  "key": {
+    "g": "minecraft:glowstone_dust",
+    "l": "fieldworks:logic_circuit",
+    "b": "fieldworks:steel_casing"
+  },
+  "result": {
+    "id": "fieldworks:tame_generator",
+    "count": 1
+  }
+}

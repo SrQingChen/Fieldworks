@@ -1,0 +1,18 @@
+{
+  "type": "fieldworks:blast_smelting",
+  "machines": [
+    "fieldworks:blast_furnace"
+  ],
+  "energy": 380,
+  "time": 220,
+  "inputs": [
+    "fieldworks:aluminum_ingot",
+    "minecraft:copper_ingot"
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:aluminum_brass_ingot",
+      "count": 2
+    }
+  ]
+}

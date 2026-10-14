@@ -1,0 +1,36 @@
+{
+  "type": "fieldworks:gravity_separating",
+  "machines": [
+    "fieldworks:gravity_separator"
+  ],
+  "energy": 400,
+  "time": 220,
+  "inputs": [
+    "minecraft:gravel"
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:flint",
+      "count": 1
+    },
+    {
+      "id": "fieldworks:raw_monazite",
+      "count": 1
+    }
+  ],
+  "chances": [
+    0.9,
+    0.15
+  ],
+  "field_profile": {
+    "fields": [
+      {
+        "field": "fieldworks:gravity",
+        "tolerance": 0.25,
+        "penalty": 0.6,
+        "weight": 0.8,
+        "ideal": 1.1
+      }
+    ]
+  }
+}

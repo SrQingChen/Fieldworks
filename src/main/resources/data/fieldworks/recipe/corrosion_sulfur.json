@@ -1,0 +1,36 @@
+{
+  "type": "fieldworks:corrosion_trapping",
+  "machines": [
+    "fieldworks:corrosion_trap"
+  ],
+  "energy": 450,
+  "time": 260,
+  "outputs": [
+    {
+      "id": "fieldworks:sulfur",
+      "count": 1
+    },
+    {
+      "id": "fieldworks:corrosion_salt",
+      "count": 1
+    }
+  ],
+  "chances": [
+    1.0,
+    0.6
+  ],
+  "field_profile": {
+    "fields": [
+      {
+        "field": "fieldworks:temperature",
+        "tolerance": 70,
+        "penalty": 0.4,
+        "weight": 0.4,
+        "ideal": 50
+      }
+    ]
+  },
+  "atmosphere_cost": {
+    "cr": -0.02
+  }
+}

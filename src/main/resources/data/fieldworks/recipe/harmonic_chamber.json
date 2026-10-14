@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ala",
+    "lsl",
+    "asa"
+  ],
+  "key": {
+    "a": "minecraft:amethyst_shard",
+    "l": "fieldworks:amethyst_lens",
+    "s": "fieldworks:steel_casing"
+  },
+  "result": {
+    "id": "fieldworks:harmonic_chamber",
+    "count": 1
+  }
+}

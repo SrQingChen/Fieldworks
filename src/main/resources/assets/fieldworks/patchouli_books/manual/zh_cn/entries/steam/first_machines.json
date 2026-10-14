@@ -1,0 +1,17 @@
+{
+  "name": "book.fieldworks.e.first_machines",
+  "category": "fieldworks:steam",
+  "icon": "fieldworks:electrolyzer_1",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.first_machines.p1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.first_machines.p2"
+    }
+  ],
+  "sortnum": 1,
+  "advancement": "fieldworks:power_on"
+}

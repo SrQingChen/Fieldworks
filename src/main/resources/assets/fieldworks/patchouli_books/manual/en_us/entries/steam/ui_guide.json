@@ -1,0 +1,21 @@
+{
+  "name": "book.fieldworks.e.ui_guide",
+  "category": "fieldworks:steam",
+  "icon": "fieldworks:electrolyzer_2",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.ui_guide.p1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.ui_guide.p2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.ui_guide.p3"
+    }
+  ],
+  "sortnum": 3,
+  "advancement": "fieldworks:power_on"
+}

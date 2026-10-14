@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "fieldworks:block/infinite_water_pump_front",
+    "north": "fieldworks:block/infinite_water_pump_front",
+    "south": "fieldworks:block/infinite_water_pump_side",
+    "east": "fieldworks:block/infinite_water_pump_side",
+    "west": "fieldworks:block/infinite_water_pump_side",
+    "up": "fieldworks:block/infinite_water_pump_top",
+    "down": "fieldworks:block/machine_bottom"
+  }
+}

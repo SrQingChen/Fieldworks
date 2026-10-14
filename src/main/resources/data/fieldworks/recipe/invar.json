@@ -1,0 +1,29 @@
+{
+  "type": "fieldworks:blast_smelting",
+  "machines": [
+    "fieldworks:blast_furnace"
+  ],
+  "energy": 400,
+  "time": 240,
+  "inputs": [
+    "fieldworks:steel_ingot",
+    "minecraft:iron_ingot"
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:invar_ingot",
+      "count": 2
+    }
+  ],
+  "field_profile": {
+    "fields": [
+      {
+        "field": "fieldworks:temperature",
+        "tolerance": 50,
+        "penalty": 0.6,
+        "weight": 1.0,
+        "ideal": 70
+      }
+    ]
+  }
+}

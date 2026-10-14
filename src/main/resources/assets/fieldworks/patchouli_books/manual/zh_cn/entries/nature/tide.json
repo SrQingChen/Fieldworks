@@ -1,0 +1,12 @@
+{
+  "name": "book.fieldworks.e.tide",
+  "category": "fieldworks:nature",
+  "icon": "fieldworks:tidal_meter",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.tide.p1"
+    }
+  ],
+  "sortnum": 1
+}

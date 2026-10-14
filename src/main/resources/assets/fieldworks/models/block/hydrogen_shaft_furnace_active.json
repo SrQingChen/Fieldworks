@@ -1,0 +1,12 @@
+{
+ "parent": "minecraft:block/cube",
+ "textures": {
+  "particle": "fieldworks:block/hydrogen_shaft_furnace_front",
+  "north": "fieldworks:block/hydrogen_shaft_furnace_front_active",
+  "south": "fieldworks:block/hydrogen_shaft_furnace_side",
+  "east": "fieldworks:block/hydrogen_shaft_furnace_side",
+  "west": "fieldworks:block/hydrogen_shaft_furnace_side",
+  "up": "fieldworks:block/hydrogen_shaft_furnace_top",
+  "down": "fieldworks:block/machine_bottom"
+ }
+}

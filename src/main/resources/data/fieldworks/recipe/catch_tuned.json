@@ -1,0 +1,31 @@
+{
+  "type": "fieldworks:vacuum_catching",
+  "machines": [
+    "fieldworks:negative_pressure_catcher"
+  ],
+  "energy": 700,
+  "time": 360,
+  "outputs": [
+    {
+      "id": "fieldworks:tuned_void_essence",
+      "count": 1
+    }
+  ],
+  "field_profile": {
+    "fields": [
+      {
+        "field": "fieldworks:vacuum",
+        "tolerance": 3000,
+        "penalty": 0.7,
+        "weight": 1.0,
+        "ideal": 30
+      }
+    ]
+  },
+  "fluid_outputs": [
+    {
+      "id": "fieldworks:tuned_void_gas",
+      "amount": 50
+    }
+  ]
+}

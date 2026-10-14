@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "asa",
+    "scs",
+    "sss"
+  ],
+  "key": {
+    "a": "minecraft:amethyst_block",
+    "s": "fieldworks:steel_casing",
+    "c": "fieldworks:resonant_crystal_raw"
+  },
+  "result": {
+    "id": "fieldworks:crystal_farm",
+    "count": 1
+  }
+}

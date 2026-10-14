@@ -1,0 +1,27 @@
+{
+  "name": "book.fieldworks.e.pipes",
+  "category": "fieldworks:air",
+  "icon": "fieldworks:fluid_pipe",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "fieldworks:fluid_pipe",
+      "text": "book.fieldworks.e.pipes.p1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.pipes.p2"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "fieldworks:item_pipe",
+      "text": "book.fieldworks.e.pipes.p3"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "fieldworks:energy_pipe",
+      "text": "book.fieldworks.e.pipes.p4"
+    }
+  ],
+  "sortnum": 2
+}

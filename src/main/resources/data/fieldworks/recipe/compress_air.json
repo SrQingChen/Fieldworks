@@ -1,0 +1,14 @@
+{
+  "type": "fieldworks:compressing",
+  "machines": [
+    "fieldworks:compressor"
+  ],
+  "energy": 350,
+  "time": 160,
+  "outputs": [
+    {
+      "id": "fieldworks:compressed_air",
+      "count": 2
+    }
+  ]
+}

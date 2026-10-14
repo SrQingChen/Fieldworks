@@ -1,0 +1,17 @@
+{
+  "name": "book.fieldworks.e.probe",
+  "category": "fieldworks:start",
+  "icon": "fieldworks:probe_staff",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "fieldworks:probe_staff",
+      "text": "book.fieldworks.e.probe.p1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.probe.p2"
+    }
+  ],
+  "sortnum": 1
+}

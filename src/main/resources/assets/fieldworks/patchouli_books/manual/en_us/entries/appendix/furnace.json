@@ -1,0 +1,16 @@
+{
+  "name": "book.fieldworks.e.furnace",
+  "category": "fieldworks:appendix",
+  "icon": "minecraft:flint_and_steel",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.furnace.p1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.furnace.p2"
+    }
+  ],
+  "sortnum": 2
+}

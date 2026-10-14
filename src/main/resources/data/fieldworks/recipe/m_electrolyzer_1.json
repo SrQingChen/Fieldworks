@@ -1,0 +1,28 @@
+{
+  "type": "fieldworks:part_crafting",
+  "machines": [
+    "fieldworks:part_bench"
+  ],
+  "energy": 400,
+  "time": 240,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:copper_coil",
+      "count": 2
+    },
+    {
+      "ingredient": "minecraft:iron_ingot",
+      "count": 16
+    },
+    {
+      "ingredient": "minecraft:glass",
+      "count": 4
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:electrolyzer_1",
+      "count": 1
+    }
+  ]
+}

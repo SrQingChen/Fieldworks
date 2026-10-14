@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "fieldworks:block/spectrometer_front",
+    "north": "fieldworks:block/spectrometer_front",
+    "south": "fieldworks:block/spectrometer_side",
+    "east": "fieldworks:block/spectrometer_side",
+    "west": "fieldworks:block/spectrometer_side",
+    "up": "fieldworks:block/spectrometer_top",
+    "down": "fieldworks:block/machine_bottom"
+  }
+}

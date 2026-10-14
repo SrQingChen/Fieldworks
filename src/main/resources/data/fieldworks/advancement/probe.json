@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "id": "fieldworks:probe_staff"
+    },
+    "title": {
+      "translate": "adv.fieldworks.probe"
+    },
+    "description": {
+      "translate": "adv.fieldworks.probe.desc"
+    },
+    "frame": "task"
+  },
+  "parent": "fieldworks:root",
+  "criteria": {
+    "has": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "fieldworks:probe_staff"
+          }
+        ]
+      }
+    }
+  }
+}

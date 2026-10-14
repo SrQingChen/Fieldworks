@@ -1,0 +1,29 @@
+{
+  "type": "fieldworks:compressing",
+  "machines": [
+    "fieldworks:compressor"
+  ],
+  "energy": 400,
+  "time": 200,
+  "outputs": [
+    {
+      "id": "fieldworks:dry_ice",
+      "count": 1
+    }
+  ],
+  "field_profile": {
+    "fields": [
+      {
+        "field": "fieldworks:temperature",
+        "tolerance": 50,
+        "penalty": 0.4,
+        "weight": 0.5,
+        "ideal": -10
+      }
+    ]
+  },
+  "fluid_input": {
+    "fluid": "fieldworks:carbon_dioxide",
+    "amount": 200
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "fieldworks:magnetizing",
+  "machines": [
+    "fieldworks:magnetizer"
+  ],
+  "energy": 500,
+  "time": 300,
+  "inputs": [
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot"
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:magnetized_core",
+      "count": 1
+    }
+  ],
+  "field_profile": {
+    "fields": [
+      {
+        "field": "fieldworks:magnetic",
+        "tolerance": 0.5,
+        "penalty": 0.9,
+        "weight": 1.0,
+        "ideal": 0.5
+      }
+    ]
+  }
+}

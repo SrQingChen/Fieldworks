@@ -1,0 +1,18 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 600,
+  "time": 300,
+  "inputs": [
+    "minecraft:copper_ingot",
+    "minecraft:ender_pearl"
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:flux_alloy_ingot",
+      "count": 1
+    }
+  ]
+}

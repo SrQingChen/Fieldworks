@@ -1,0 +1,26 @@
+{
+  "texture": "textures/guis/machine.png",
+  "src_rect": [
+    0,
+    0,
+    176,
+    166
+  ],
+  "progress_x": 79,
+  "progress_y": 35,
+  "progress_w": 24,
+  "progress_h": 6,
+  "energy_x": 8,
+  "energy_y": 21,
+  "fit_x": -72,
+  "fit_y": 2,
+  "palette": {
+    "ACCENT": 15246141,
+    "TEAL": 2006678,
+    "TEXT": 4144966,
+    "MUTED": 7240579,
+    "GOOD": 3123279,
+    "WARN": 14264104,
+    "BAD": 12597547
+  }
+}

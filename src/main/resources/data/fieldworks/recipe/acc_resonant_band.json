@@ -1,0 +1,28 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 700,
+  "time": 320,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:field_wire",
+      "count": 4
+    },
+    {
+      "ingredient": "fieldworks:resonant_crystal_refined",
+      "count": 2
+    },
+    {
+      "ingredient": "minecraft:gold_ingot",
+      "count": 2
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:resonant_band",
+      "count": 1
+    }
+  ]
+}

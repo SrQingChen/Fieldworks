@@ -1,0 +1,28 @@
+{
+  "type": "fieldworks:part_crafting",
+  "machines": [
+    "fieldworks:part_bench"
+  ],
+  "energy": 420,
+  "time": 240,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:piston_frame",
+      "count": 2
+    },
+    {
+      "ingredient": "fieldworks:copper_coil",
+      "count": 2
+    },
+    {
+      "ingredient": "minecraft:iron_ingot",
+      "count": 8
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:compressor",
+      "count": 1
+    }
+  ]
+}

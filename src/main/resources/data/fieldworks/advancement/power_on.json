@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "id": "fieldworks:steam_generator"
+    },
+    "title": {
+      "translate": "adv.fieldworks.power_on"
+    },
+    "description": {
+      "translate": "adv.fieldworks.power_on.desc"
+    },
+    "frame": "task"
+  },
+  "parent": "fieldworks:root",
+  "criteria": {
+    "granted": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

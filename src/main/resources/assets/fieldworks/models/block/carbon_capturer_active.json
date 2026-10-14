@@ -1,0 +1,12 @@
+{
+ "parent": "minecraft:block/cube",
+ "textures": {
+  "particle": "fieldworks:block/carbon_capturer_front",
+  "north": "fieldworks:block/carbon_capturer_front_active",
+  "south": "fieldworks:block/carbon_capturer_side",
+  "east": "fieldworks:block/carbon_capturer_side",
+  "west": "fieldworks:block/carbon_capturer_side",
+  "up": "fieldworks:block/carbon_capturer_top",
+  "down": "fieldworks:block/machine_bottom"
+ }
+}

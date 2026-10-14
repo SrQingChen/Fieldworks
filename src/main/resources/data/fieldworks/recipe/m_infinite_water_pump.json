@@ -1,0 +1,40 @@
+{
+  "type": "fieldworks:part_crafting",
+  "machines": [
+    "fieldworks:part_bench"
+  ],
+  "energy": 800,
+  "time": 400,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:steel_casing",
+      "count": 2
+    },
+    {
+      "ingredient": "fieldworks:turbine_blade",
+      "count": 1
+    },
+    {
+      "ingredient": "fieldworks:seal_flange",
+      "count": 2
+    },
+    {
+      "ingredient": "fieldworks:copper_coil",
+      "count": 4
+    },
+    {
+      "ingredient": "fieldworks:logic_circuit",
+      "count": 1
+    },
+    {
+      "ingredient": "minecraft:iron_ingot",
+      "count": 16
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:infinite_water_pump",
+      "count": 1
+    }
+  ]
+}

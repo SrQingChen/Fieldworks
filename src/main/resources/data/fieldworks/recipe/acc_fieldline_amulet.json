@@ -1,0 +1,28 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 750,
+  "time": 340,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:field_wire",
+      "count": 4
+    },
+    {
+      "ingredient": "fieldworks:seal_flange",
+      "count": 2
+    },
+    {
+      "ingredient": "fieldworks:invar_ingot",
+      "count": 2
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:fieldline_amulet",
+      "count": 1
+    }
+  ]
+}

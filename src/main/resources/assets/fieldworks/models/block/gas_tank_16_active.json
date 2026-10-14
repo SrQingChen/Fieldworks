@@ -1,0 +1,12 @@
+{
+ "parent": "minecraft:block/cube",
+ "textures": {
+  "particle": "fieldworks:block/gas_tank_16_front",
+  "north": "fieldworks:block/gas_tank_16_front_active",
+  "south": "fieldworks:block/gas_tank_16_side",
+  "east": "fieldworks:block/gas_tank_16_side",
+  "west": "fieldworks:block/gas_tank_16_side",
+  "up": "fieldworks:block/gas_tank_16_top",
+  "down": "fieldworks:block/machine_bottom"
+ }
+}

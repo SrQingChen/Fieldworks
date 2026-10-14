@@ -1,0 +1,19 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 500,
+  "time": 280,
+  "inputs": [
+    "fieldworks:steel_ingot",
+    "fieldworks:inert_concentrate",
+    "minecraft:copper_ingot"
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:permalloy_ingot",
+      "count": 1
+    }
+  ]
+}

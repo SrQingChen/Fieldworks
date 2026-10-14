@@ -1,0 +1,17 @@
+{
+  "type": "fieldworks:recycling",
+  "machines": [
+    "fieldworks:recycler"
+  ],
+  "energy": 100,
+  "time": 80,
+  "inputs": [
+    "fieldworks:copper_coil"
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:copper_ingot",
+      "count": 1
+    }
+  ]
+}

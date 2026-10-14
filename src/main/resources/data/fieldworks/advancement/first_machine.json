@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "id": "fieldworks:electrolyzer_1"
+    },
+    "title": {
+      "translate": "adv.fieldworks.first_machine"
+    },
+    "description": {
+      "translate": "adv.fieldworks.first_machine.desc"
+    },
+    "frame": "task"
+  },
+  "parent": "fieldworks:partsmith",
+  "criteria": {
+    "has": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "fieldworks:electrolyzer_1"
+          }
+        ]
+      }
+    }
+  }
+}

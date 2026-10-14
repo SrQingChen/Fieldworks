@@ -1,0 +1,17 @@
+{
+  "type": "fieldworks:recycling",
+  "machines": [
+    "fieldworks:recycler"
+  ],
+  "energy": 120,
+  "time": 80,
+  "inputs": [
+    "fieldworks:steel_gear"
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:iron_ingot",
+      "count": 1
+    }
+  ]
+}

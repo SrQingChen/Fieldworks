@@ -1,0 +1,32 @@
+{
+  "type": "fieldworks:part_crafting",
+  "machines": [
+    "fieldworks:part_bench"
+  ],
+  "energy": 300,
+  "time": 200,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:silicon_wafer",
+      "count": 2
+    },
+    {
+      "ingredient": "minecraft:copper_ingot",
+      "count": 4
+    },
+    {
+      "ingredient": "minecraft:redstone",
+      "count": 2
+    },
+    {
+      "ingredient": "fieldworks:carbon_black",
+      "count": 2
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:logic_circuit",
+      "count": 1
+    }
+  ]
+}

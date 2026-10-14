@@ -1,0 +1,21 @@
+{
+  "type": "fieldworks:condensing",
+  "machines": [
+    "fieldworks:condenser"
+  ],
+  "energy": 600,
+  "time": 400,
+  "outputs": [
+    {
+      "id": "minecraft:ghast_tear",
+      "count": 1
+    }
+  ],
+  "chances": [
+    0.6
+  ],
+  "fluid_input": {
+    "fluid": "fieldworks:nether_gas",
+    "amount": 200
+  }
+}

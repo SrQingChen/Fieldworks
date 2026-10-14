@@ -1,0 +1,28 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 2600,
+  "time": 620,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:superconductor_ring",
+      "count": 1
+    },
+    {
+      "ingredient": "fieldworks:superconductor_alloy",
+      "count": 4
+    },
+    {
+      "ingredient": "fieldworks:resonator_shell",
+      "count": 4
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:plasma_electrolysis_matrix",
+      "count": 1
+    }
+  ]
+}

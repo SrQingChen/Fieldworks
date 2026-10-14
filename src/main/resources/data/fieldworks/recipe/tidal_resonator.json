@@ -1,0 +1,19 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 1000,
+  "time": 420,
+  "inputs": [
+    "minecraft:heart_of_the_sea",
+    "minecraft:prismarine_shard",
+    "fieldworks:invar_ingot"
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:tidal_resonator",
+      "count": 1
+    }
+  ]
+}

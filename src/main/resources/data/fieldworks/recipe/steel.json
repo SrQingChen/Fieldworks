@@ -1,0 +1,39 @@
+{
+  "type": "fieldworks:blast_smelting",
+  "machines": [
+    "fieldworks:blast_furnace"
+  ],
+  "energy": 300,
+  "time": 200,
+  "inputs": [
+    "#fieldworks:compressed_air",
+    "minecraft:iron_ingot"
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:steel_ingot",
+      "count": 1
+    }
+  ],
+  "field_profile": {
+    "fields": [
+      {
+        "field": "fieldworks:temperature",
+        "tolerance": 60,
+        "penalty": 0.5,
+        "weight": 1.0,
+        "ideal": 60
+      },
+      {
+        "field": "fieldworks:humidity",
+        "tolerance": 70,
+        "penalty": 0.3,
+        "weight": 0.5,
+        "ideal": 40
+      }
+    ]
+  },
+  "atmosphere_cost": {
+    "ox": -0.01
+  }
+}

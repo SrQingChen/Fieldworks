@@ -1,0 +1,30 @@
+{
+  "type": "fieldworks:irradiating",
+  "machines": [
+    "fieldworks:irradiation_chamber"
+  ],
+  "energy": 500,
+  "time": 300,
+  "inputs": [
+    "minecraft:gunpowder",
+    "fieldworks:sulfur",
+    "minecraft:gold_nugget"
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:mercury_fulminate",
+      "count": 1
+    }
+  ],
+  "field_profile": {
+    "fields": [
+      {
+        "field": "fieldworks:radiation",
+        "tolerance": 100,
+        "penalty": 0.5,
+        "weight": 0.4,
+        "ideal": 30
+      }
+    ]
+  }
+}

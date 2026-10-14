@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "id": "fieldworks:fieldpack_terminal"
+    },
+    "title": {
+      "translate": "adv.fieldworks.five_airs"
+    },
+    "description": {
+      "translate": "adv.fieldworks.five_airs.desc"
+    },
+    "frame": "task"
+  },
+  "parent": "fieldworks:carbon_ledger",
+  "criteria": {
+    "granted": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

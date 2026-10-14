@@ -1,0 +1,21 @@
+{
+  "name": "book.fieldworks.e.multiblock",
+  "category": "fieldworks:giants",
+  "icon": "fieldworks:giant_core",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.multiblock.p1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.multiblock.p2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.multiblock.p3"
+    }
+  ],
+  "sortnum": 0,
+  "advancement": "fieldworks:giant"
+}

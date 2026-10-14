@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "fieldworks:monel_ingot",
+    "fieldworks:seal_flange"
+  ],
+  "result": {
+    "id": "fieldworks:upgrade_isolation",
+    "count": 1
+  }
+}

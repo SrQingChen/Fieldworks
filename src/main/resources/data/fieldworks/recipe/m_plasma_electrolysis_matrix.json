@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "SUS",
+  "URU",
+  "SUS"
+ ],
+ "key": {
+  "S": "fieldworks:superconductor_alloy",
+  "U": "fieldworks:superconductor_ring",
+  "R": "fieldworks:resonant_crystal_ultra"
+ },
+ "result": {
+  "id": "fieldworks:plasma_electrolysis_matrix",
+  "count": 1
+ }
+}

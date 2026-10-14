@@ -1,0 +1,13 @@
+{
+  "name": "book.fieldworks.e.corrosion",
+  "category": "fieldworks:carbon",
+  "icon": "fieldworks:corrosion_trap",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.corrosion.p1"
+    }
+  ],
+  "sortnum": 2,
+  "advancement": "fieldworks:carbon_ledger"
+}

@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "id": "fieldworks:steel_ingot"
+    },
+    "title": {
+      "translate": "adv.fieldworks.steelsmith"
+    },
+    "description": {
+      "translate": "adv.fieldworks.steelsmith.desc"
+    },
+    "frame": "task"
+  },
+  "parent": "fieldworks:first_machine",
+  "criteria": {
+    "has": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "fieldworks:steel_ingot"
+          }
+        ]
+      }
+    }
+  }
+}

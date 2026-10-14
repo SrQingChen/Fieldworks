@@ -1,0 +1,12 @@
+{
+  "_comment": "数据包样例(§19.3 数据包分层)：覆盖内置场元数据(区间/单位/同步策略)。ordinal 不变。",
+  "id": "fieldworks:harmonic",
+  "unit": "律",
+  "scope": "envelope",
+  "natural_min": 0,
+  "natural_max": 0,
+  "artificial_min": 1,
+  "artificial_max": 12,
+  "display": "linear",
+  "sync": "gui_only"
+}

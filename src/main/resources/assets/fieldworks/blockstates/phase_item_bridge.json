@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fieldworks:block/phase_item_bridge"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "igi",
+    "gcg",
+    "igi"
+  ],
+  "key": {
+    "i": "fieldworks:steel_ingot",
+    "g": "minecraft:glass",
+    "c": "fieldworks:sensor_core"
+  },
+  "result": {
+    "id": "fieldworks:magnetometer",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 520,
+  "time": 240,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:pure_iron_ingot",
+      "count": 4
+    },
+    {
+      "ingredient": "fieldworks:copper_coil",
+      "count": 2
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:electromagnet_core",
+      "count": 1
+    }
+  ]
+}

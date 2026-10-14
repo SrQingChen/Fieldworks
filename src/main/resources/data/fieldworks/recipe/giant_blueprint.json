@@ -1,0 +1,24 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 1200,
+  "time": 440,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:resonant_crystal_refined",
+      "count": 2
+    },
+    {
+      "ingredient": "fieldworks:logic_circuit",
+      "count": 4
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:giant_blueprint",
+      "count": 1
+    }
+  ]
+}

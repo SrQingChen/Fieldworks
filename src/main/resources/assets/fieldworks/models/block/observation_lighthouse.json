@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "fieldworks:block/observation_lighthouse_front",
+    "north": "fieldworks:block/observation_lighthouse_front",
+    "south": "fieldworks:block/observation_lighthouse_side",
+    "east": "fieldworks:block/observation_lighthouse_side",
+    "west": "fieldworks:block/observation_lighthouse_side",
+    "up": "fieldworks:block/observation_lighthouse_top",
+    "down": "fieldworks:block/machine_bottom"
+  }
+}

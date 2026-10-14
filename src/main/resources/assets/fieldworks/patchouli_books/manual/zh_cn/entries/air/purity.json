@@ -1,0 +1,17 @@
+{
+  "name": "book.fieldworks.e.purity",
+  "category": "fieldworks:air",
+  "icon": "fieldworks:resonant_crystal_ultra",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.purity.p1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.purity.p2"
+    }
+  ],
+  "sortnum": 3,
+  "advancement": "fieldworks:steelsmith"
+}

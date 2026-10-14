@@ -1,0 +1,25 @@
+{
+  "type": "fieldworks:distilling",
+  "machines": [
+    "fieldworks:distillation_tower"
+  ],
+  "energy": 500,
+  "time": 300,
+  "inputs": [
+    "#fieldworks:compressed_air"
+  ],
+  "fluid_outputs": [
+    {
+      "id": "fieldworks:oxygen",
+      "amount": 150
+    },
+    {
+      "id": "fieldworks:nitrogen",
+      "amount": 250
+    },
+    {
+      "id": "fieldworks:inert_gas",
+      "amount": 60
+    }
+  ]
+}

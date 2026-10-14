@@ -1,0 +1,21 @@
+{
+  "name": "book.fieldworks.e.five_pieces",
+  "category": "fieldworks:envelope",
+  "icon": "fieldworks:field_frame",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.five_pieces.p1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.five_pieces.p2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.five_pieces.p3"
+    }
+  ],
+  "sortnum": 0,
+  "advancement": "fieldworks:envelope"
+}

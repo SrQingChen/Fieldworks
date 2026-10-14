@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "id": "fieldworks:compressed_air"
+    },
+    "title": {
+      "translate": "adv.fieldworks.air_caught"
+    },
+    "description": {
+      "translate": "adv.fieldworks.air_caught.desc"
+    },
+    "frame": "task"
+  },
+  "parent": "fieldworks:root",
+  "criteria": {
+    "has": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "fieldworks:compressed_air"
+          }
+        ]
+      }
+    }
+  }
+}

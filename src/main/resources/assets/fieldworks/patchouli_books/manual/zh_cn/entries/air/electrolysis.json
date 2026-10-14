@@ -1,0 +1,20 @@
+{
+  "name": "book.fieldworks.e.electrolysis",
+  "category": "fieldworks:air",
+  "icon": "fieldworks:electrolyzer_2",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.electrolysis.p1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.electrolysis.p2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.electrolysis.p3"
+    }
+  ],
+  "sortnum": 0
+}

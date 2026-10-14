@@ -1,0 +1,24 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 800,
+  "time": 380,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:electromagnet_core",
+      "count": 2
+    },
+    {
+      "ingredient": "fieldworks:precision_bearing",
+      "count": 4
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:magnetic_separator",
+      "count": 1
+    }
+  ]
+}

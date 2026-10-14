@@ -1,0 +1,12 @@
+{
+ "parent": "minecraft:block/cube",
+ "textures": {
+  "particle": "fieldworks:block/magnetic_separator_front",
+  "north": "fieldworks:block/magnetic_separator_front_active",
+  "south": "fieldworks:block/magnetic_separator_side",
+  "east": "fieldworks:block/magnetic_separator_side",
+  "west": "fieldworks:block/magnetic_separator_side",
+  "up": "fieldworks:block/magnetic_separator_top",
+  "down": "fieldworks:block/machine_bottom"
+ }
+}

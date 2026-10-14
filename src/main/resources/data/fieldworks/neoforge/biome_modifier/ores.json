@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "fieldworks:bauxite_ore",
+    "fieldworks:deepslate_bauxite_ore",
+    "fieldworks:monazite_ore",
+    "fieldworks:resonant_cluster"
+  ],
+  "step": "underground_ores"
+}

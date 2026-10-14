@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cec",
+    "ese",
+    "ccc"
+  ],
+  "key": {
+    "c": "fieldworks:steel_casing",
+    "e": "fieldworks:electromagnet_core",
+    "s": "fieldworks:field_wire"
+  },
+  "result": {
+    "id": "fieldworks:field_injector",
+    "count": 1
+  }
+}

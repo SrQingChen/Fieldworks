@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "id": "fieldworks:field_frame"
+    },
+    "title": {
+      "translate": "adv.fieldworks.envelope"
+    },
+    "description": {
+      "translate": "adv.fieldworks.envelope.desc"
+    },
+    "frame": "task"
+  },
+  "parent": "fieldworks:deep_breath",
+  "criteria": {
+    "has": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "fieldworks:field_frame"
+          }
+        ]
+      }
+    }
+  }
+}

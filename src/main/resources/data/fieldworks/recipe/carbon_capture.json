@@ -1,0 +1,36 @@
+{
+  "type": "fieldworks:carbon_capturing",
+  "machines": [
+    "fieldworks:carbon_capturer"
+  ],
+  "energy": 500,
+  "time": 300,
+  "outputs": [
+    {
+      "id": "fieldworks:carbon_black",
+      "count": 1
+    },
+    {
+      "id": "fieldworks:dry_ice",
+      "count": 1
+    }
+  ],
+  "chances": [
+    1.0,
+    0.5
+  ],
+  "field_profile": {
+    "fields": [
+      {
+        "field": "fieldworks:carbon",
+        "tolerance": 600,
+        "penalty": 0.4,
+        "weight": 0.5,
+        "ideal": 400
+      }
+    ]
+  },
+  "atmosphere_cost": {
+    "cr": 0
+  }
+}

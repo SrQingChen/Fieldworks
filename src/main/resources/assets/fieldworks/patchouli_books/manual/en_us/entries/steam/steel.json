@@ -1,0 +1,18 @@
+{
+  "name": "book.fieldworks.e.steel",
+  "category": "fieldworks:steam",
+  "icon": "fieldworks:steel_ingot",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "fieldworks:steel_ingot",
+      "text": "book.fieldworks.e.steel.p1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.steel.p2"
+    }
+  ],
+  "sortnum": 2,
+  "advancement": "fieldworks:partsmith"
+}

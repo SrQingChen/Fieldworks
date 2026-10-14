@@ -1,0 +1,15 @@
+# 构建产物与运行时
+build/
+run/
+.gradle/
+out/
+
+# 可选依赖 jar（体积/授权考虑不入库；放置后即可构建，见 README）
+libs/*.jar
+FTB系列模组/
+
+# 日志与临时文件
+*.log
+used_keys_tmp.txt
+_texwork/__pycache__/
+_texwork/preview_*.png

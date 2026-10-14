@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rgr"
+  ],
+  "key": {
+    "r": "minecraft:redstone",
+    "g": "minecraft:gold_ingot"
+  },
+  "result": {
+    "id": "fieldworks:energy_pipe",
+    "count": 8
+  }
+}

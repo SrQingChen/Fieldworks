@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "fieldworks:sensor_core",
+    "minecraft:amethyst_shard"
+  ],
+  "result": {
+    "id": "fieldworks:spectrum_module",
+    "count": 1
+  }
+}

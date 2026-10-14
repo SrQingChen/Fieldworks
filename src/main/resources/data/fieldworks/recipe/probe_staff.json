@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  n",
+    " s ",
+    "s  "
+  ],
+  "key": {
+    "n": "minecraft:iron_nugget",
+    "s": "minecraft:stick"
+  },
+  "result": {
+    "id": "fieldworks:probe_staff",
+    "count": 1
+  }
+}

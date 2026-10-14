@@ -1,0 +1,17 @@
+{
+  "name": "book.fieldworks.e.first_power",
+  "category": "fieldworks:start",
+  "icon": "fieldworks:steam_generator",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "fieldworks:steam_generator",
+      "text": "book.fieldworks.e.first_power.p1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.first_power.p2"
+    }
+  ],
+  "sortnum": 2
+}

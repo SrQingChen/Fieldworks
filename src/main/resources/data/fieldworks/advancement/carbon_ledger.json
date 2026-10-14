@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "id": "fieldworks:carbon_gauge"
+    },
+    "title": {
+      "translate": "adv.fieldworks.carbon_ledger"
+    },
+    "description": {
+      "translate": "adv.fieldworks.carbon_ledger.desc"
+    },
+    "frame": "task"
+  },
+  "parent": "fieldworks:steelsmith",
+  "criteria": {
+    "granted": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

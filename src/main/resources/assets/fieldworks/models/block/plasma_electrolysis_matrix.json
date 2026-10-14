@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "fieldworks:block/plasma_electrolysis_matrix_front",
+    "north": "fieldworks:block/plasma_electrolysis_matrix_front",
+    "south": "fieldworks:block/plasma_electrolysis_matrix_side",
+    "east": "fieldworks:block/plasma_electrolysis_matrix_side",
+    "west": "fieldworks:block/plasma_electrolysis_matrix_side",
+    "up": "fieldworks:block/plasma_electrolysis_matrix_top",
+    "down": "fieldworks:block/machine_bottom"
+  }
+}

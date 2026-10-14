@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "fieldworks:block/tidal_meter_front",
+    "north": "fieldworks:block/tidal_meter_front",
+    "south": "fieldworks:block/tidal_meter_side",
+    "east": "fieldworks:block/tidal_meter_side",
+    "west": "fieldworks:block/tidal_meter_side",
+    "up": "fieldworks:block/tidal_meter_top",
+    "down": "fieldworks:block/machine_bottom"
+  }
+}

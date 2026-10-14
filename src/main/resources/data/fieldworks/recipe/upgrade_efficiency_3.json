@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:redstone",
+    "minecraft:redstone",
+    "minecraft:redstone",
+    "fieldworks:upgrade_efficiency_2"
+  ],
+  "result": {
+    "id": "fieldworks:upgrade_efficiency_3",
+    "count": 1
+  }
+}

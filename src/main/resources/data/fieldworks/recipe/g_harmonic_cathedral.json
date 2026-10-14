@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "fieldworks:giant_core",
+    "fieldworks:giant_blueprint"
+  ],
+  "result": {
+    "id": "fieldworks:harmonic_cathedral",
+    "count": 1
+  }
+}

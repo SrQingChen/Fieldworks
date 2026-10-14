@@ -1,0 +1,17 @@
+{
+  "name": "book.fieldworks.e.fit",
+  "category": "fieldworks:reading",
+  "icon": "fieldworks:blast_furnace",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.fit.p1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.fit.p2"
+    }
+  ],
+  "sortnum": 2,
+  "advancement": "fieldworks:first_machine"
+}

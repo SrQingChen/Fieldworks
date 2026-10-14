@@ -1,0 +1,28 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 850,
+  "time": 360,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:flux_alloy_ingot",
+      "count": 4
+    },
+    {
+      "ingredient": "fieldworks:logic_circuit",
+      "count": 2
+    },
+    {
+      "ingredient": "minecraft:gold_ingot",
+      "count": 4
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:flux_belt",
+      "count": 1
+    }
+  ]
+}

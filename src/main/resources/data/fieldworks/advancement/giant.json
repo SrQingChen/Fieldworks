@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "id": "fieldworks:giant_core"
+    },
+    "title": {
+      "translate": "adv.fieldworks.giant"
+    },
+    "description": {
+      "translate": "adv.fieldworks.giant.desc"
+    },
+    "frame": "task"
+  },
+  "parent": "fieldworks:envelope",
+  "criteria": {
+    "has": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "fieldworks:giant_core"
+          }
+        ]
+      }
+    }
+  }
+}

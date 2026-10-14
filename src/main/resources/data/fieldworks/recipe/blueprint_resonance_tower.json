@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "P P",
+  "PXG",
+  "P P"
+ ],
+ "key": {
+  "P": "minecraft:paper",
+  "X": "fieldworks:resonance_fuel",
+  "G": "fieldworks:giant_core"
+ },
+ "result": {
+  "id": "fieldworks:giant_blueprint",
+  "count": 1,
+  "components": {
+   "fieldworks:giant_variant": "fieldworks:resonance_tower"
+  }
+ }
+}

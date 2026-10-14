@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "fieldworks:superconductor_alloy",
+    "fieldworks:dry_ice"
+  ],
+  "result": {
+    "id": "fieldworks:upgrade_superconductor",
+    "count": 1
+  }
+}

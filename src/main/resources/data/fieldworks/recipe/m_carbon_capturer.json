@@ -1,0 +1,28 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 1000,
+  "time": 400,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:sensor_core",
+      "count": 2
+    },
+    {
+      "ingredient": "fieldworks:logic_circuit",
+      "count": 4
+    },
+    {
+      "ingredient": "fieldworks:steel_casing",
+      "count": 4
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:carbon_capturer",
+      "count": 1
+    }
+  ]
+}

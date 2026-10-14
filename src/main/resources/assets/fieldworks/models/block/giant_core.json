@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "fieldworks:block/giant_core_front",
+    "north": "fieldworks:block/giant_core_front",
+    "south": "fieldworks:block/giant_core_side",
+    "east": "fieldworks:block/giant_core_side",
+    "west": "fieldworks:block/giant_core_side",
+    "up": "fieldworks:block/giant_core_top",
+    "down": "fieldworks:block/machine_bottom"
+  }
+}

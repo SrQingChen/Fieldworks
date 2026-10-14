@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "glg",
+    "lbl",
+    "sss"
+  ],
+  "key": {
+    "g": "minecraft:glowstone",
+    "l": "fieldworks:logic_circuit",
+    "b": "fieldworks:steel_casing",
+    "s": "fieldworks:steel_shell"
+  },
+  "result": {
+    "id": "fieldworks:observation_lighthouse",
+    "count": 1
+  }
+}

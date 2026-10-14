@@ -1,0 +1,21 @@
+{
+  "type": "fieldworks:electrolysis",
+  "machines": [
+    "fieldworks:electrolyzer_1"
+  ],
+  "energy": 400,
+  "time": 240,
+  "inputs": [
+    "#fieldworks:compressed_air"
+  ],
+  "fluid_outputs": [
+    {
+      "id": "fieldworks:oxygen",
+      "amount": 200
+    },
+    {
+      "id": "fieldworks:nitrogen",
+      "amount": 300
+    }
+  ]
+}

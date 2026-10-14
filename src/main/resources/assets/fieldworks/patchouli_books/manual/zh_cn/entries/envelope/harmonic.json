@@ -1,0 +1,21 @@
+{
+  "name": "book.fieldworks.e.harmonic",
+  "category": "fieldworks:envelope",
+  "icon": "fieldworks:harmonic_chamber",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.harmonic.p1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.harmonic.p2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.harmonic.p3"
+    }
+  ],
+  "sortnum": 2,
+  "advancement": "fieldworks:envelope"
+}

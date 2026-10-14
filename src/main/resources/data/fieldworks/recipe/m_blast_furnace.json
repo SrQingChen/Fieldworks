@@ -1,0 +1,28 @@
+{
+  "type": "fieldworks:part_crafting",
+  "machines": [
+    "fieldworks:part_bench"
+  ],
+  "energy": 380,
+  "time": 220,
+  "inputs": [
+    {
+      "ingredient": "minecraft:cobblestone",
+      "count": 16
+    },
+    {
+      "ingredient": "minecraft:iron_ingot",
+      "count": 8
+    },
+    {
+      "ingredient": "fieldworks:copper_coil",
+      "count": 1
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:blast_furnace",
+      "count": 1
+    }
+  ]
+}

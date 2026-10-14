@@ -1,0 +1,18 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 800,
+  "time": 360,
+  "inputs": [
+    "fieldworks:amethyst_lens",
+    "fieldworks:resonant_crystal_refined"
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:amethyst_resonator",
+      "count": 1
+    }
+  ]
+}

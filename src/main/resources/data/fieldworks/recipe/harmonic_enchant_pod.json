@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "acb",
+    "sss"
+  ],
+  "key": {
+    "a": "minecraft:amethyst_shard",
+    "c": "fieldworks:tuning_fork",
+    "b": "minecraft:bookshelf",
+    "s": "fieldworks:steel_ingot"
+  },
+  "result": {
+    "id": "fieldworks:harmonic_enchant_pod",
+    "count": 1
+  }
+}

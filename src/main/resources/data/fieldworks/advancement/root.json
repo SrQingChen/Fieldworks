@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "fieldworks:probe_staff"
+    },
+    "title": {
+      "translate": "adv.fieldworks.root"
+    },
+    "description": {
+      "translate": "adv.fieldworks.root.desc"
+    },
+    "background": "minecraft:block/deepslate",
+    "frame": "task",
+    "show_toast": false,
+    "announce_chat": false
+  },
+  "criteria": {
+    "sticks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:stick"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "fieldworks:deep_drilling",
+  "machines": [
+    "fieldworks:deep_drill"
+  ],
+  "energy": 800,
+  "time": 400,
+  "inputs": [
+    "minecraft:deepslate"
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:raw_monazite",
+      "count": 1
+    }
+  ],
+  "chances": [
+    0.12
+  ]
+}

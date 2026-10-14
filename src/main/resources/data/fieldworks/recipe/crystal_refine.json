@@ -1,0 +1,28 @@
+{
+  "type": "fieldworks:electrolysis",
+  "machines": [
+    "fieldworks:electrolyzer_3"
+  ],
+  "energy": 800,
+  "time": 400,
+  "inputs": [
+    "fieldworks:resonant_crystal_raw"
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:resonant_crystal_refined",
+      "count": 1
+    }
+  ],
+  "field_profile": {
+    "fields": [
+      {
+        "field": "fieldworks:magnetic",
+        "tolerance": 0.4,
+        "penalty": 0.8,
+        "weight": 1.0,
+        "ideal": 0.35
+      }
+    ]
+  }
+}

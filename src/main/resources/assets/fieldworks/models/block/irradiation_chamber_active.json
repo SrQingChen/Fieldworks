@@ -1,0 +1,12 @@
+{
+ "parent": "minecraft:block/cube",
+ "textures": {
+  "particle": "fieldworks:block/irradiation_chamber_front",
+  "north": "fieldworks:block/irradiation_chamber_front_active",
+  "south": "fieldworks:block/irradiation_chamber_side",
+  "east": "fieldworks:block/irradiation_chamber_side",
+  "west": "fieldworks:block/irradiation_chamber_side",
+  "up": "fieldworks:block/irradiation_chamber_top",
+  "down": "fieldworks:block/machine_bottom"
+ }
+}

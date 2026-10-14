@@ -1,0 +1,12 @@
+{
+  "name": "book.fieldworks.e.api",
+  "category": "fieldworks:appendix",
+  "icon": "fieldworks:giant_blueprint",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.api.p1"
+    }
+  ],
+  "sortnum": 1
+}

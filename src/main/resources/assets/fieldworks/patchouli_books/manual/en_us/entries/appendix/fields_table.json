@@ -1,0 +1,12 @@
+{
+  "name": "book.fieldworks.e.fields_table",
+  "category": "fieldworks:appendix",
+  "icon": "fieldworks:fieldpack_terminal",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.fields_table.p1"
+    }
+  ],
+  "sortnum": 0
+}

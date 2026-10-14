@@ -1,0 +1,25 @@
+{
+  "type": "fieldworks:part_crafting",
+  "machines": [
+    "fieldworks:part_bench"
+  ],
+  "energy": 220,
+  "time": 160,
+  "inputs": [
+    {
+      "ingredient": "minecraft:iron_ingot",
+      "count": 6
+    },
+    {
+      "ingredient": "minecraft:copper_ingot",
+      "count": 2
+    },
+    "#minecraft:planks"
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:piston_frame",
+      "count": 1
+    }
+  ]
+}

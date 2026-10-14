@@ -1,0 +1,28 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 900,
+  "time": 400,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:steel_gear",
+      "count": 4
+    },
+    {
+      "ingredient": "fieldworks:piston_frame",
+      "count": 2
+    },
+    {
+      "ingredient": "fieldworks:steel_casing",
+      "count": 4
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:deep_drill",
+      "count": 1
+    }
+  ]
+}

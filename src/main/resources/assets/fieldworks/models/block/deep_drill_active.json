@@ -1,0 +1,12 @@
+{
+ "parent": "minecraft:block/cube",
+ "textures": {
+  "particle": "fieldworks:block/deep_drill_front",
+  "north": "fieldworks:block/deep_drill_front_active",
+  "south": "fieldworks:block/deep_drill_side",
+  "east": "fieldworks:block/deep_drill_side",
+  "west": "fieldworks:block/deep_drill_side",
+  "up": "fieldworks:block/deep_drill_top",
+  "down": "fieldworks:block/machine_bottom"
+ }
+}

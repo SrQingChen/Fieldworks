@@ -1,0 +1,17 @@
+{
+  "name": "book.fieldworks.e.catcher",
+  "category": "fieldworks:start",
+  "icon": "fieldworks:stone_catcher",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "fieldworks:stone_catcher",
+      "text": "book.fieldworks.e.catcher.p1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.catcher.p2"
+    }
+  ],
+  "sortnum": 3
+}

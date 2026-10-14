@@ -1,0 +1,135 @@
+{
+ "multipart": [
+  {
+   "apply": {
+    "model": "fieldworks:block/fluid_pipe_center"
+   }
+  },
+  {
+   "when": {
+    "north": "pipe"
+   },
+   "apply": {
+    "model": "fieldworks:block/fluid_pipe_arm_north"
+   }
+  },
+  {
+   "when": {
+    "north": "machine"
+   },
+   "apply": [
+    {
+     "model": "fieldworks:block/fluid_pipe_arm_north"
+    },
+    {
+     "model": "fieldworks:block/fluid_pipe_flange_north"
+    }
+   ]
+  },
+  {
+   "when": {
+    "south": "pipe"
+   },
+   "apply": {
+    "model": "fieldworks:block/fluid_pipe_arm_south"
+   }
+  },
+  {
+   "when": {
+    "south": "machine"
+   },
+   "apply": [
+    {
+     "model": "fieldworks:block/fluid_pipe_arm_south"
+    },
+    {
+     "model": "fieldworks:block/fluid_pipe_flange_south"
+    }
+   ]
+  },
+  {
+   "when": {
+    "west": "pipe"
+   },
+   "apply": {
+    "model": "fieldworks:block/fluid_pipe_arm_west"
+   }
+  },
+  {
+   "when": {
+    "west": "machine"
+   },
+   "apply": [
+    {
+     "model": "fieldworks:block/fluid_pipe_arm_west"
+    },
+    {
+     "model": "fieldworks:block/fluid_pipe_flange_west"
+    }
+   ]
+  },
+  {
+   "when": {
+    "east": "pipe"
+   },
+   "apply": {
+    "model": "fieldworks:block/fluid_pipe_arm_east"
+   }
+  },
+  {
+   "when": {
+    "east": "machine"
+   },
+   "apply": [
+    {
+     "model": "fieldworks:block/fluid_pipe_arm_east"
+    },
+    {
+     "model": "fieldworks:block/fluid_pipe_flange_east"
+    }
+   ]
+  },
+  {
+   "when": {
+    "down": "pipe"
+   },
+   "apply": {
+    "model": "fieldworks:block/fluid_pipe_arm_down"
+   }
+  },
+  {
+   "when": {
+    "down": "machine"
+   },
+   "apply": [
+    {
+     "model": "fieldworks:block/fluid_pipe_arm_down"
+    },
+    {
+     "model": "fieldworks:block/fluid_pipe_flange_down"
+    }
+   ]
+  },
+  {
+   "when": {
+    "up": "pipe"
+   },
+   "apply": {
+    "model": "fieldworks:block/fluid_pipe_arm_up"
+   }
+  },
+  {
+   "when": {
+    "up": "machine"
+   },
+   "apply": [
+    {
+     "model": "fieldworks:block/fluid_pipe_arm_up"
+    },
+    {
+     "model": "fieldworks:block/fluid_pipe_flange_up"
+    }
+   ]
+  }
+ ]
+}

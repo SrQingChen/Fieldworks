@@ -1,0 +1,28 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 1200,
+  "time": 440,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:void_lens",
+      "count": 1
+    },
+    {
+      "ingredient": "fieldworks:void_condensate",
+      "count": 4
+    },
+    {
+      "ingredient": "minecraft:ender_pearl",
+      "count": 4
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:void_step_ring",
+      "count": 1
+    }
+  ]
+}

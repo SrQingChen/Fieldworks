@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "igi",
+    "g g",
+    "igi"
+  ],
+  "key": {
+    "i": "minecraft:iron_ingot",
+    "g": "minecraft:glass"
+  },
+  "result": {
+    "id": "fieldworks:gas_tank_1",
+    "count": 1
+  }
+}

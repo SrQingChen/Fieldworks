@@ -1,0 +1,13 @@
+{
+  "name": "book.fieldworks.e.capture",
+  "category": "fieldworks:carbon",
+  "icon": "fieldworks:carbon_capturer",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.capture.p1"
+    }
+  ],
+  "sortnum": 1,
+  "advancement": "fieldworks:carbon_ledger"
+}

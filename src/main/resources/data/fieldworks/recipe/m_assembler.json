@@ -1,0 +1,36 @@
+{
+  "type": "fieldworks:part_crafting",
+  "machines": [
+    "fieldworks:part_bench"
+  ],
+  "energy": 700,
+  "time": 360,
+  "inputs": [
+    {
+      "ingredient": "fieldworks:logic_circuit",
+      "count": 2
+    },
+    {
+      "ingredient": "fieldworks:steel_casing",
+      "count": 2
+    },
+    {
+      "ingredient": "fieldworks:piston_frame",
+      "count": 2
+    },
+    {
+      "ingredient": "fieldworks:steel_gear",
+      "count": 2
+    },
+    {
+      "ingredient": "fieldworks:copper_coil",
+      "count": 4
+    }
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:assembler",
+      "count": 1
+    }
+  ]
+}

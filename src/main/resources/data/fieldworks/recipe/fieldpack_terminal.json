@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gcg",
+    "csc",
+    "gcg"
+  ],
+  "key": {
+    "g": "minecraft:glowstone_dust",
+    "c": "fieldworks:logic_circuit",
+    "s": "fieldworks:sensor_core"
+  },
+  "result": {
+    "id": "fieldworks:fieldpack_terminal",
+    "count": 1
+  }
+}

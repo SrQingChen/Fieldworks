@@ -1,0 +1,19 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 1000,
+  "time": 400,
+  "inputs": [
+    "fieldworks:void_condensate",
+    "fieldworks:void_condensate",
+    "fieldworks:amethyst_lens"
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:void_lens",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "igi"
+  ],
+  "key": {
+    "i": "minecraft:iron_ingot",
+    "g": "minecraft:glass"
+  },
+  "result": {
+    "id": "fieldworks:item_pipe",
+    "count": 8
+  }
+}

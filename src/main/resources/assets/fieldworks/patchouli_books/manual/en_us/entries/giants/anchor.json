@@ -1,0 +1,126 @@
+{
+  "name": "book.fieldworks.e.anchor",
+  "category": "fieldworks:giants",
+  "icon": "fieldworks:warp_anchor",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.anchor.p1"
+    },
+    {
+      "type": "fieldworks:multiblock",
+      "name": "book.fieldworks.e.anchor.mb",
+      "text": "book.fieldworks.e.anchor.mb_t",
+      "multiblock": {
+        "pattern": [
+          [
+            "         ",
+            "         ",
+            "         ",
+            "         ",
+            "    A    ",
+            "         ",
+            "         ",
+            "         ",
+            "         "
+          ],
+          [
+            "         ",
+            "         ",
+            "         ",
+            "   AAA   ",
+            "   A A   ",
+            "   AAA   ",
+            "         ",
+            "         ",
+            "         "
+          ],
+          [
+            "         ",
+            "         ",
+            "  AAAAA  ",
+            "  A   A  ",
+            "  A   A  ",
+            "  A   A  ",
+            "  AAAAA  ",
+            "         ",
+            "         "
+          ],
+          [
+            "         ",
+            " SSSSSSS ",
+            " S     S ",
+            " S     S ",
+            " S     S ",
+            " S     S ",
+            " S     S ",
+            " SSSSSSS ",
+            "         "
+          ],
+          [
+            "         ",
+            " T     T ",
+            "         ",
+            "   GGG   ",
+            "   G G   ",
+            "   GGG   ",
+            "         ",
+            " T     T ",
+            "         "
+          ],
+          [
+            "         ",
+            " T     T ",
+            "         ",
+            "   GGG   ",
+            "   G G   ",
+            "   GGG   ",
+            "         ",
+            " T     T ",
+            "         "
+          ],
+          [
+            "         ",
+            " SSSSSSS ",
+            " S     S ",
+            " S     S ",
+            " S  0  S ",
+            " S     S ",
+            " S     S ",
+            " SSSSSSS ",
+            "         "
+          ],
+          [
+            "SSSSSSSSS",
+            "S   K   S",
+            "S   K   S",
+            "S   K   S",
+            "SKKKKKKKS",
+            "S   K   S",
+            "S   K   S",
+            "S   K   S",
+            "SSSSSSSSS"
+          ]
+        ],
+        "mapping": {
+          "T": "fieldworks:reinforced_truss",
+          "S": "fieldworks:steel_shell",
+          "G": "fieldworks:observation_glass",
+          "A": "fieldworks:amethyst_plate",
+          "K": "fieldworks:steel_casing",
+          "0": "fieldworks:warp_anchor"
+        },
+        "symmetrical": false
+      },
+      "multiblock_variant": "warp_anchor",
+      "enable_visualize": true,
+      "custom_game": null
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.fieldworks.e.anchor.p2"
+    }
+  ],
+  "sortnum": 3,
+  "advancement": "fieldworks:giant"
+}

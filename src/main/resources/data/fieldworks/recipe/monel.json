@@ -1,0 +1,30 @@
+{
+  "type": "fieldworks:assembling",
+  "machines": [
+    "fieldworks:assembler"
+  ],
+  "energy": 500,
+  "time": 280,
+  "inputs": [
+    "fieldworks:steel_ingot",
+    "minecraft:copper_ingot",
+    "fieldworks:corrosion_salt"
+  ],
+  "outputs": [
+    {
+      "id": "fieldworks:monel_ingot",
+      "count": 1
+    }
+  ],
+  "field_profile": {
+    "fields": [
+      {
+        "field": "fieldworks:humidity",
+        "tolerance": 60,
+        "penalty": 0.4,
+        "weight": 0.5,
+        "ideal": 70
+      }
+    ]
+  }
+}
