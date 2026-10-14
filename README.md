@@ -53,6 +53,8 @@
 
 ## 🛠️ 构建与运行
 
+> 首次构建前请将可选依赖 jar 放入对应位置（不入库）：Curios/Patchouli → `libs/`，FTB 系列与拼音搜索 → `FTB系列模组/`，Jade/JEI → 上级目录原名（见 `build.gradle`）。缺省时仅影响对应联动，核心源码编译仍需 `libs/` 两个 jar。
+
 ```bash
 ./gradlew build          # 产出 build/libs/fieldworks-0.4.0.jar
 ./gradlew runServer      # 无头服务器（冒烟已验证：0 ERROR / 1678 配方）
